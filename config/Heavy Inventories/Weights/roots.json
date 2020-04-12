@@ -1,0 +1,854 @@
+{
+  "wildwood_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildwood_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runestone_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bark_dark_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wood_knife": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elemental_soil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runestone_brick_alt_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elemental_soil_water": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grove_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flour": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ritual_healing_aura": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fey_light": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runestone_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildwood_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ritual_gathering": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "baffle_cap_mushroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bark_spruce": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cloud_berry": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_knife": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fey_crafter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_knife": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildwood_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runestone_brick_alt_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildewheet_seed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ritual_flower_growth": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sylvan_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "imbuer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildwood_ladder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runestone_brick_alt_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "living_arrow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildwood_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runic_dust": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildwood_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildwood_rune": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dewgonia_crop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ritual_summon_creatures": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_marker": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "living_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sylvan_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildewheet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infernal_bulb_crop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildwood_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ritual_warding_protection": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "terra_moss": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bark_birch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runestone_brick_alt_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runestone_brick_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildwood_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gold_knife": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ritual_germination": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runestone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runestone_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pereskia_crop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "baffle_cap_huge_top": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runestone_brick_alt_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "moonglow_seed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elemental_soil_air": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "staff": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elemental_soil_fire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diamond_knife": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dewgonia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cloud_berry_crop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runestone_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildroot_crop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spirit_herb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runestone_brick_alt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "living_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chiseled_runestone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runestone_brick_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cooked_seeds": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "moonglow_crop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ritual_spreading_forest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ritual_overgrowth": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "incense_burner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "living_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildwood_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fey_leather": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "moonglow_leaf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "baffle_cap_huge_stem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runestone_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ritual_purity": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runestone_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stalicripe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bark_wildwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ritual_heavy_storms": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runic_shears": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ritual_windwall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "life_essence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runestone_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apothecary_pouch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "living_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "assorted_seeds": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runestone_brick_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildwood_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildwood_bow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildwood_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildroot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "living_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ritual_divine_protection": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "component_pouch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runestone_trample": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildwood_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spirit_herb_crop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cooked_pereskia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildwood_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bonfire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mortar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildewheet_bread": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elemental_soil_earth": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runestone_brick_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bark_jungle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "petals": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bark_acacia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildwood_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sylvan_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ritual_animal_harvest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildwood_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildewheet_crop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildwood_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildwood_quiver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bark_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "offertory_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spirit_herb_seed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildwood_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pereskia_bulb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "creative_pouch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ritual_frost_lands": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infernal_bulb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pestle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildwood_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ritual_transmutation": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ritual_wild_growth": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stalicripe_crop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unending_bowl": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spell_dust": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ritual_fire_storm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runestone_brick_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runestone_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runestone_brick_alt_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "terra_spores": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pereskia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sylvan_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

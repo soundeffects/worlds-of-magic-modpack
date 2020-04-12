@@ -1,0 +1,56 @@
+{
+  "creative_mech_source": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_gold_on": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gearbox_frame": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_fan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_gold_off": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "axle_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mergebox_frame": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

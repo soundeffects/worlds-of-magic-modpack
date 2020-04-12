@@ -1,0 +1,8 @@
+setIcon(<embers:codex>)
+setTitle("School of Technomancy")
+setDescription("Physical laws, enhanced.")
+addParent("triumph:advancements/schools")
+setPos(-153,11)
+hideLines()
+criteria = addCriteria("hasCodex", "minecraft:inventory_changed")
+criteria.addItem(<embers:codex>)

@@ -1,0 +1,2282 @@
+{
+  "scorned_bricks_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet_clumsy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_ingot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mandrake_seeds": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_sentinel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_of_amethyst": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "juniper_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet_wasting": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chiseled_embittered_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brown_lantern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tarot_table": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "purifying_earth": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "juniper_wood_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cleansing_balm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "catechu_brown": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_table": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stew_of_the_grotesque": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elder_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "besmirched_pants": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chiseled_scorned_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cypress_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alchemist_hat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bottle_of_blood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet_shelf_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brown_candle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crop_mandrake": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cypress_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fortunes_favor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "juniper_wood_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spinning_wheel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_disorientation": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "placed_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grimoire_magia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet_armor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spanish_moss": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blue_lantern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cold_iron_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ectoplasm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet_shelf_cypress": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "embittered_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragons_blood_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tallow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flower_siphoning_tulip_orange": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "green_witch_pants": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frostflower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fiery_chalk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cold_iron_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragons_blood_resin_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cold_iron_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "demonic_elixir": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crop_belladonna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flower_siphoning_poppy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "juniper_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eye_of_old": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dimensional_sand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "perpetual_ice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "birch_soul": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "boline": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spruce_heart": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragons_blood_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elder_wood_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hellfire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet_earthprotection": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oil_of_vitriol": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gray_lantern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elder_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ritual_chalk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elder_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crop_hellebore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elder_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nether_brick_baphomet_statue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flower_siphoning_dandelion": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "perpetual_ice_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coquina_witches_altar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "focal_chalk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "salt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragons_blood_resin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_cleansing": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "besmirched_hat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet_shelf_elder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cyan_candle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorned_brick_lilith_statue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "orange_lantern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet_spiritbane": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragons_blood_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nether_brick_leonard_statue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_lilith_statue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cypress_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "taglock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diabolical_vein": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chiseled_coquina": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sanguine_cloth": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gold_herne_statue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragons_blood_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_failure": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flower_siphoning_azure_bluet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "juniper_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crop_white_sage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "juniper_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "triskelion": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wormwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet_shelf_dragons_blood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "liquid_witchcraft": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_ruin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "black_candle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cold_iron_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "yellow_candle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "garnet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "white_sage_seeds": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pink_lantern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elderberries": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tongue_of_dog": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet_tool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "light_blue_lantern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "witches_cowl": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crystal_ball": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gold_baphomet_statue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leonards_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_mending": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "embergrass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vampiric_amulet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_juniper_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_of_opal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gold_lilith_statue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hecates_visage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hellish_bauble": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spanish_moss_end": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_cypress_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coquina": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "yellow_lantern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "horseshoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hellebore_seeds": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_of_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "white_candle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ravens_feather": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "girdle_of_the_dryads": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blue_ink_cap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "distillery": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hellebore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amethyst": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_battle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorned_brick_leonard_statue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet_shelf_juniper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frostfire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flower_siphoning_tulip_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cold_iron_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "perpetual_ice_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "embittered_brick_witches_altar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cold_iron_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oak_apple_gall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "red_lantern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet_shelf_birch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "besmirched_hood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragons_blood_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "garlic_seeds": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cyan_lantern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elder_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "salt_barrier": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "light_gray_candle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alchemist_robes": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "juniperroot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "purple_candle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "droplet_of_wisdom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "opal_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flower_siphoning_tulip_pink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cold_iron_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cypress_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glyph": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "heaven_extract": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "demon_heart": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "witches_cauldron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_of_garnet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hellhound_horn": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "embittered_bricks_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "caduceus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oak_spirit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "golden_thread": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet_vampiric": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_dragons_blood_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsbloodroot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "garnet_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aconitum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_purity": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "witches_oven": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cypress_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wormwood_seeds": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flower_siphoning_blue_orchid": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alchemist_hood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "snake_venom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorned_brick_witches_altar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bottled_frostfire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "witches_light": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "light_gray_lantern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragons_blood_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cypressroot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragons_blood_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet_shelf_spruce": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "athame": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blue_candle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elder_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cypress_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coquina_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "filled_goblet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "besmirched_robes": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flower_siphoning_tulip_white": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "contract": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "juniper_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crop_garlic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lizard_leg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_of_salt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragons_blood_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_binding": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hoof": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elderroot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_herne_statue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorned_brick_baphomet_statue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "juniper_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet_shelf_jungle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "waystone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "box_of_sealed_evil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "green_candle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "belladonna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flower_siphoning_oxeye_daisy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cypress_wood_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "toe_of_frog": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "green_witch_robes": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_elder_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cypress_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "salt_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "empty_jar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elder_wood_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "green_witch_hat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nether_brick_lilith_statue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsbloodseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "owlets_wing": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragons_blood_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mandrake_root": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_nugget": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "light_blue_candle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "orange_candle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "essence_of_vitality": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "perpetual_ice_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cypress_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "witches_robes": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bottle_of_vampire_blood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elder_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cold_iron_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_baphomet_statue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bottled_hellfire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragons_blood_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_shrieking": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lime_lantern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alchemist_pants": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "juniper_berries": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorned_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorned_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cypress_wood_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elder_wood_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spirit_string": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "white_sage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pink_candle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cloudy_oil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "otherworldly_tears": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "goblet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_witches_altar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet_hungerprotection": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "juniper_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elder_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet_voodoo": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wood_ash": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flying_ointment": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cypress_wood_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fiery_unguent": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "black_lantern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "juniper_wood_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet_shelf_acacia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorned_brick_herne_statue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "witches_pants": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "adders_fork": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elder_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cypressseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cold_iron_ingot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pure_filament": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pentacle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "purple_lantern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "obsidian_witches_altar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cold_iron_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tarot_cards": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flower_siphoning_allium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unfired_jar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorned_brick_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "witches_stitching": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_luck": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cypress_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aconitum_seeds": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "embittered_bricks_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet_deathprotection": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "juniper_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brazier": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "acacia_resin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gray_candle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "belladonna_seeds": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nether_brick_herne_statue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "embittered_brick_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cracked_scorned_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "green_lantern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet_waterprotection": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cypress_broom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nazar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "green_witch_hood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "torchwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cracked_embittered_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "broom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crop_aconitum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragons_blood_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cold_iron_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "juniperbranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "heart": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_gall_ink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nether_brick_witches_altar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_leonard_statue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "juniper_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet_voodooprotection": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crop_wormwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "juniper_key": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsbloodbranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blessed_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cold_iron_nugget": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet_binding": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spectral_dust": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "swirl_of_depths": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cypressbranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magenta_lantern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lime_candle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "juniper_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gold_leonard_statue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phasing_chalk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elder_broom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "perpetual_ice_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "juniper_broom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_ichor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nethersteel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elderbranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "white_lantern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet_flameprotection": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorned_bricks_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cypress_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragons_blood_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "embittered_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "juniper_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elder_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "garlic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "red_candle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poppet_shelf_dark_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_needle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_of_cold_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragons_blood_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "token_of_remedies": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amethyst_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "statue_filler": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "witches_hat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ebb_of_death": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magenta_candle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "opal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragons_blood_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragons_blood_broom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

@@ -1,0 +1,1694 @@
+{
+  "knightmetal_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mine_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "twilight_oak_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sort_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "castle_stairs_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steeleaf_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "uncrafting_table": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steeleaf_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "meef_stroganoff": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arctic_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "twilight_oak_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "maze_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "canopy_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "twilight_oak_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cicada": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "yeti_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "twilight_oak_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fiery_essence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nagastone_pillar_weathered": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sort_doubleslab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "maze_wafer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mangrove_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cinder_furnace_lit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steeleaf_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_scepter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "castle_rune_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mangrove_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steeleaf_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cube_talisman": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trans_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aurora_pillar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "twilight_leaves_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mangrove_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trans_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "miniature_structure": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fiery_ingot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arctic_fur": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trans_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "time_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spiral_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironwood_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "canopy_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "knightmetal_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "canopy_doubleslab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "experiment_115": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glass_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "twilight_plant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nagastone_pillar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "twilight_oak_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trans_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arctic_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mangrove_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_doubleslab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trophy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_shard_cluster": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mangrove_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fiery_tears": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "minotaur_axe_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mazebreaker_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "borer_essence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ore_map": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "twilight_oak_doubleslab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cooked_meef": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_twist_thin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "castle_pillar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_and_chain": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "castle_stairs_mossy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tower_translucent": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ore_magnet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "giant_cobblestone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "etched_nagastone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "etched_nagastone_mossy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cooked_venison": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mine_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "castle_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slider": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aurora_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thorns": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nagastone_stairs_weathered": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "terrorcotta_diagonal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sort_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phantom_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mine_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironwood_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steeleaf_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "uberous_soil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carminite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_shard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "twilight_oak_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "naga_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "knightmetal_shield": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sort_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "auroralized_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tower_device": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "time_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "twilight_oak_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "naga_scale": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trans_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zombie_scepter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "canopy_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "huge_lilypad": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "transformation_powder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "knightmetal_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "knightmetal_ring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fiery_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "knightmetal_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "twilight_portal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nagastone_stairs_mossy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fiery_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charm_of_life_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charm_of_life_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "twilight_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluffy_cloud": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironwood_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "twilight_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stronghold_shield": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "time_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trans_doubleslab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "giant_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steeleaf_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trophy_pedestal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "canopy_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironwood_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mine_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "raven_feather": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "time_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "root": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "huge_mushgloom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "maze_map": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phantom_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "maze_map_focus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "force_field": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "time_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironwood_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironwood_ingot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "time_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peacock_fan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "knightmetal_ingot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ice_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sort_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "knightmetal_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ore_map_empty": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "knightmetal_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "etched_nagastone_weathered": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ore_meter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "boss_spawner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "double_aurora_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "time_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ice_bow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fiery_blood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lifedrain_scepter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arctic_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironwood_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magic_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "firefly": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mangrove_doubleslab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wispy_cloud": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "twilight_scepter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magic_map": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_fierymetal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magic_log_core": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unripe_trollber": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "canopy_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironwood_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_twist": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "firefly_jar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "canopy_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mine_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "huge_stalk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "giant_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mangrove_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "liveroot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "twilight_oak_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_ladder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tower_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mine_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_storage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mine_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "castle_stairs_worn": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "terrorcotta_circle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magic_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "raw_venison": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magic_map_empty": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arctic_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "giant_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "moon_dial": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sort_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steeleaf_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tower_key": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magic_beans": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "yeti_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trollvidr": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "castle_unlock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aurora_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seeker_bow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "time_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "maze_map_empty": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cinder_furnace": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lapis_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sort_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fiery_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crumble_horn": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fire_jet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "castle_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "minotaur_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sort_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alpha_fur": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trans_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fiery_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "castle_door_vanished": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trollsteinn": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "naga_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charm_of_keeping_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "knightmetal_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "moonworm_queen": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charm_of_keeping_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "underbrick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sort_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mine_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steeleaf_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charm_of_keeping_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mine_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "canopy_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "knightmetal_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "canopy_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trans_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fiery_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "twilight_oak_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "giant_obsidian": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "time_doubleslab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "burnt_thorns": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ender_bow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "giant_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trans_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lamp_of_cinders": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mangrove_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "triple_bow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cinder_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mangrove_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nagastone_pillar_mossy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_knightmetal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nagastone_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "canopy_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "time_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hedge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deadrock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "naga_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mangrove_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironwood_raw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steeleaf_ingot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sort_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cube_of_annihilation": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hydra_chop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "castle_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trans_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steeleaf_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trollber": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mine_doubleslab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironwood_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "raw_meef": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ice_bomb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "yeti_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thorn_rose": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "yeti_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "twilight_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "moonworm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fiery_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magic_map_focus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "huge_waterlily": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "torchberries": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "castle_stairs_cracked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironwood_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

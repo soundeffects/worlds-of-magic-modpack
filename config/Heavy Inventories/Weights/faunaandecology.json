@@ -1,0 +1,632 @@
+{
+  "fur_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "duck_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_marrow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wheat_on_a_stick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cooked_llama_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_sanga_male": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fur_brown": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bucket_fatty_milk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "egg_duck": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "horse_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bowl_water": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bucket_curdle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_guanaco": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "knife_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pelt_bat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wild_ass_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fiber": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quagga_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_donkey": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fur_black": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zoopedia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mallard_raw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tallow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_wild_horse": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shovel_flint": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pelt_rabbit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shards_bone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oil_bottle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_wild_ass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fried_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_quagga": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_mooshroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "junglefowl_raw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bat_stew_raw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_cow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cooked_bat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mutton_mouflon_raw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "knife_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_mouflon_male": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_horse_white": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_pig": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beef_wild_mooshroom_raw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_aurochs_male": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wool_tuft_": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bat_stew": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_scrub_aurochs_female": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_meaty": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pickaxe_flint": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cooked_calamari": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_zebra": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cooked_bone_marrow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cooked_donkey_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_sanga_female": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_mushroom_aurochs_female": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beef_aurochs_raw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "duck_raw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cheese_fatty": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beef_mooshroom_raw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_horse_gray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fat_bottle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rind_pork": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "donkey_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_horse_creamy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_horse_chestnut": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mushroom_stew_raw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pig_skin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rabbit_stew_raw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tendon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "llama_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "guanaco_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_sheep_white": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "raw_bat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "calamari": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_horse_brown": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fur_dark_gray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "axe_flint": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_wild_boar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "porkchop_boar_raw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zebra_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_mouflon_female": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_horse_black": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_scrub_aurochs_male": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bucket_curdle_fatty": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "knife_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cooked_zebra_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_horse_darkbrown": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leather_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fur_white": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "knife_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_aurochs_female": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_mushroom_aurochs_male": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "feather_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fur_light_gray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hair_horse": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tannin_powder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cooked_horse_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wild_horse_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cheese_cow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "knife_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cooked_pumpkin_seeds": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "knife_flint": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hide_llama_white": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

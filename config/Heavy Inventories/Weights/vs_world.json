@@ -1,0 +1,14 @@
+{
+  "valkyrium_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valkyrium_crystal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

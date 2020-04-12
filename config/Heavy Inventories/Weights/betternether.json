@@ -1,0 +1,668 @@
+{
+  "stalagnate_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stalagnate_bowl": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_fire_bowl": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "egg_plant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gray_mold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz_stained_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lucis_mushroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stalagnate_bowl_mushroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_eyeball_small": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nether_brick_tile_slab_half": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "barrel_cactus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_carved": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reeds_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nether_reed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reeds_slab_half": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reeds_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ink_bush_seed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "red_large_mushroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_pickaxe_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "black_apple_seed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brown_large_mushroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stalagnate_seed_bottom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_eyeball": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stalagnate_stem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz_glass_pane": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stalagnate_bark": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stalagnate_planks_slab_half": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nether_brick_tile_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_tile_large": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nether_brick_tile_large": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stalagnate_bowl_wart": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wart_seed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz_glass_framed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_pot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stalagnate_bowl_placed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reeds_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_mushroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "agave": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "potted_plant_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "black_apple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_slab_half": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nether_brick_tile_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "black_bush": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stalagnate_planks_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stalagnate_planks_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magma_flower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_lantern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nether_brick_tile_small": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "netherrack_moss": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stalagnate_seed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reeds_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reeds_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eye_vine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stalagnate_middle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_bars": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smoker": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz_stained_glass_framed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stalagnate_bottom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "red_mold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stalagnate_planks_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "netherrack_furnace": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reeds_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stalagnate_top": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_reed_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_brick_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "orange_mushroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_axe_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pig_statue_01": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_tile": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reeds_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_forged": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_pillar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_tile_small": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eye_seed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_cincinnasite_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chest_of_drawers": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stalagnate_bowl_apple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_frame": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_forge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nether_mycelium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz_glass_framed_pane": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stalagnate_planks_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ink_bush": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_pedestal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_slab_half": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stalagnate_planks_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nether_brick_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nether_grass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nether_cactus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stalagnate_planks_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reeds_ladder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lucis_spore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cincinnasite_bricks_pillar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

@@ -1,0 +1,1850 @@
+{
+  "cluster": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amber_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "banner_cyan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "void_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pedestal_ancient": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "banner_magenta": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hand_mirror": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "banner_crimson_cult": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cloth_legs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal_alchemical": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "loot_crate_common": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nitor_lightblue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "taint_geyser": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crystal_essence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "recharge_pedestal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "essentia_output": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brain_box": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quicksilver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slab_eldritch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thaumium_helm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "taint_feature": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_greatwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "focus_pouch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sapling_greatwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vis_generator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tallow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hungry_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candle_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_ancient_tile": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cinderpearl": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "research_table": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "liquid_death": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plank_greatwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "caster_basic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mechanism_complex": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pillar_eldritch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mirror": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "focus_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crimson_praetor_helm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "curiosity_band": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "focus_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "focus_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thaumium_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tube_valve": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_silverwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nitor_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "condenser_lattice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fortress_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candle_orange": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "condenser_lattice_dirty": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "void_robe_legs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arcane_workbench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mind": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candle_black": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crimson_blade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fortress_legs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turret": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nitor_gray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "paving_stone_barrier": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crimson_plate_legs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flux_goo": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "banner_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal_brass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "banner_orange": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "effect_sap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "placeholder_anvil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "placeholder_table": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal_void": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "void_seed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "essentia_input": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infernal_furnace": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thaumium_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nitor_white": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "empty": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thaumometer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "matrix_cost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crystal_ignis": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grass_ambient": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scribing_tools": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "banner_black": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_ancient_doorway": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "loot_crate_rare": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thaumatorium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thaumium_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arcane_ear_toggle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elemental_pick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nitor_cyan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "enchanted_placeholder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mirrored_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grapple_gun_tip": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thaumonomicon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bath_salts": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smelter_void": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "matrix_speed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tube": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redstone_relay": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "goggles": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_ancient_glyphed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nitor_brown": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "centrifuge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tube_oneway": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_greatwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nitor_orange": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "banner_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ingot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crimson_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pillar_arcane": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ore_cinnabar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candle_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "void_siphon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slab_double_arcane_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "curio": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cloud_ring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "taint_fibre": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candle_gray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arcane_ear": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lamp_fertility": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slab_double_eldritch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "taint_soil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tube_buffer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "loot_urn_rare": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crimson_robe_legs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_ancient": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candle_lightblue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slab_double_ancient": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "banner_purple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crucible": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crystal_ordo": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "label": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "void_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smelter_basic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hole": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slab_double_silverwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "voidseer_charm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slab_silverwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candle_purple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cloth_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "taint_crust": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "purifying_fluid": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amulet_vis": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "banner_pink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fortress_helm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mirror_essentia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cloth_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crimson_robe_helm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "celestial_notes": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "morphic_resonator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pillar_ancient": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phial": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bellows": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nitor_lime": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crystal_perditio": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nitor_purple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thaumium_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "loot_urn_common": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crimson_plate_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smelter_aux": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_eldritch_tile": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tube_filter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "golem_builder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candle_white": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candle_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elemental_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "creative_flux_sponge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ore_amber": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elemental_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slab_arcane_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thaumatorium_top": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nitor_magenta": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arcane_workbench_charger": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "loot_urn_uncommon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fabric": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "resonator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jar_brain": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "loot_bag": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal_alchemical_advanced": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slab_greatwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charm_undying": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "void_pick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "golem_bell": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alembic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vishroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stairs_arcane_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alumentum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smelter_vent": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "void_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jar_void": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thaumium_pick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candle_lime": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thaumium_legs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "primordial_pearl": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_porous": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_arcane_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candle_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vis_resonator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "condenser": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "effect_glimmer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bottle_taint": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "banner_lime": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grapple_gun_spool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "void_legs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nitor_yellow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "causality_collapser": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "paving_stone_travel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pedestal_eldritch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amber": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "void_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nitor_pink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brain": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "filter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "void_robe_helm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slab_double_greatwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stairs_ancient": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal_thaumium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crimson_plate_helm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crimson_praetor_legs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smelter_thaumium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tube_restrict": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_ancient_rock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nitor_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candle_magenta": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nugget": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "banner_white": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shimmerleaf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "placeholder_bars": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crimson_praetor_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wand_workbench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_arcane": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nitor_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "everfull_urn": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ore_quartz": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stairs_greatwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sanity_checker": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candle_cyan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "barrier": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jar_normal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "void_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slab_double_arcane_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "potion_sprayer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "traveller_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infusion_matrix": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "primal_crusher": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "inlay": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "void_helm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spa": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slab_arcane_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lamp_growth": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_silverwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candle_brown": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "salis_mundus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candle_yellow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "placeholder_cauldron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "void_robe_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "banner_lightblue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elemental_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grapple_gun": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "verdant_charm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pedestal_arcane": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pech_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crimson_robe_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "taint_rock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stairs_silverwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "banner_gray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crystal_terra": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stabilizer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slab_ancient": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chunk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "baubles": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "banner_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "levitator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sanity_soap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "void_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "banner_brown": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dioptra": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crystal_aqua": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amber_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crystal_aer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "banner_yellow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "banner_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "placeholder_obsidian": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "taint_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "activator_rail": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "placeholder_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candle_pink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crystal_vitium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "loot_crate_uncommon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sapling_silverwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "triple_meat_treat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jar_brace": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plank_silverwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lamp_arcane": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "golem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nitor_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "effect_shock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stairs_arcane": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vis_battery": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pattern_crafter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thaumium_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flesh_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elemental_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mechanism_simple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thaumium_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nitor_black": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

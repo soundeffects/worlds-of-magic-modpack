@@ -1,0 +1,8 @@
+setIcon(<patchouli:guide_book, nbt:{"patchouli:book":"roots:roots_guide"}>)
+setTitle("Druidry: Agricraft")
+setAnnounceToChat(false)
+setDescription("...")
+addParent("triumph:advancements/druidry")
+setPos(-118,163)
+criteria = addCriteria("hasRootsBook", "minecraft:inventory_changed")
+criteria.addItem(<patchouli:guide_book, nbt:{"patchouli:book":"roots:roots_guide"}>)

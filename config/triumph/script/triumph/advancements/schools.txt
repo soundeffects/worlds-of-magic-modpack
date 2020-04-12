@@ -1,0 +1,8 @@
+setIcon(<minecraft:enchanted_book>)
+setTitle("Specializing in Magic")
+setDescription("You find yourself living in a world of magic, and so your goal must be to learn its secrets, right? These advancements will guide you along the path to mastery.")
+setShowToast(false)
+setAnnounceToChat(false)
+setBackground("minecraft:textures/blocks/planks_big_oak.png")
+setPos(-203,-21)
+addCriteria("location", "minecraft:location")

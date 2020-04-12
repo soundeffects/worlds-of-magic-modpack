@@ -1,0 +1,1118 @@
+{
+  "eucalyptus_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cherry_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "umbran_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sacred_oak_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "umbran_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "willow_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redwood_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "green_dye": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "honey_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fir_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "double_other_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pine_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mahogany_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jar_filled": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jacaranda_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magic_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mangrove_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ethereal_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "palm_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mushroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mahogany_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "willow_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jar_empty": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "waterlily": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magic_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peach": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "palm_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "other_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "willow_vine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "filled_honeycomb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bamboo": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "honeycomb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "white_sandstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cherry_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redwood_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bramble_plant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "boat_mahogany": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flesh": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "white_dye": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "willow_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "boat_ethereal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hive": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pine_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hellbark_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dried_sand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crystal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hot_spring_water": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hellbark_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sacred_oak_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ebony_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pine_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "boat_umbran": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "palm_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "boat_magic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ethereal_door_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_4": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ricebowl": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_5": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cherry_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shroompowder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_6": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mangrove_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mangrove_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eucalyptus_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "black_dye": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "white_sandstone_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crystal_shard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cherry_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poison": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ethereal_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hellbark_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "record_wanderer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "terrarium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ebony_door_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brown_dye": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magic_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ebony_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ash": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hellbark_door_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fleshchunk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "boat_eucalyptus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "boat_jacaranda": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "boat_pine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grass_path": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redwood_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ebony_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eucalyptus_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "willow_door_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gem_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jacaranda_door_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mahogany_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "boat_fir": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cherry_door_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magic_door_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sacred_oak_door_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magic_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "boat_redwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coral": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sapling_0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sapling_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pine_door_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sapling_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fir_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "boat_palm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fir_door_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eucalyptus_door_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dirt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wood_slab_0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "planks_0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "umbran_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eucalyptus_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "boat_hellbark": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biome_essence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wood_slab_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "boat_sacred_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "boat_mangrove": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fir_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ebony_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ethereal_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mangrove_door_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "white_sand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flower_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flower_0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sacred_oak_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "umbran_door_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "boat_ebony": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "persimmon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redwood_door_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "terrestrial_artifact": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blue_dye": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mangrove_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biome_finder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "double_wood_slab_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "willow_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ethereal_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fir_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "farmland_0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "farmland_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mahogany_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "boat_willow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "berries": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pear": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plant_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plant_0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redwood_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ash_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blue_fire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "honey": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "umbran_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hard_ice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gem_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bamboo_thatching": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "boat_cherry": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mahogany_door_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_4": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jacaranda_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jacaranda_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "double_wood_slab_0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "palm_door_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pine_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "double_plant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mudball": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "palm_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seaweed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hellbark_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ivy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biome_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jacaranda_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "earth": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sacred_oak_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

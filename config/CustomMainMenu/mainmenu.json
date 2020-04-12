@@ -1,0 +1,81 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "logo:minecraft.png",
+            "posX" : -111.25,
+            "posY" : -70,
+            "width" : 222.5,
+            "height" : 55,
+            "alignment" : "center"
+        }
+    },
+
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "Survival",
+            "posX" : -100,
+            "posY" : 0,
+            "width" : 200,
+            "height" : 20,
+            "alignment": "center",
+            "action" :
+            {
+                "type": "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+
+        "options":
+        {
+            "text" : "Options",
+            "posX" : -100,
+            "posY" : 25,
+            "width" : 98,
+            "height" : 20,
+            "alignment": "center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "custom.options"
+            }
+        },
+
+        "quit":
+        {
+            "text" : "Quit",
+            "posX" : 2,
+            "posY" : 25,
+            "width" : 98,
+            "height" : 20,
+            "alignment": "center",
+            "action" :
+            {
+                "type" : "quit"
+            }
+        }
+    },
+
+    "other":
+    {
+        "background":
+        {
+            "image" : "",
+            "mode" : "fill",
+            "slideshow":
+            {
+                "images" : ["planet:planet00.png","planet:planet01.png","planet:planet02.png","planet:planet03.png","planet:planet04.png","planet:planet05.png",
+                  "planet:planet06.png","planet:planet07.png","planet:planet08.png","planet:planet09.png","planet:planet10.png",
+                  "planet:planet11.png","planet:planet12.png","planet:planet13.png","planet:planet14.png","planet:planet15.png",
+                  "planet:planet16.png","planet:planet17.png","planet:planet18.png","planet:planet19.png","planet:planet20.png",
+                  "planet:planet21.png","planet:planet22.png","planet:planet23.png","planet:planet24.png","planet:planet25.png",
+                  "planet:planet26.png","planet:planet27.png","planet:planet28.png","planet:planet29.png"],
+                "displayDuration" : 1,
+                "fadeDuration" : 1
+            }
+        }
+    }
+}

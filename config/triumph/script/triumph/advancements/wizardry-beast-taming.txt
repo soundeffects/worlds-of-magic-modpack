@@ -1,0 +1,8 @@
+setIcon(<ebwizardry:wizard_handbook>)
+setTitle("Wizardry: Beast Taming")
+setAnnounceToChat(false)
+setDescription("...")
+addParent("triumph:advancements/wizardry")
+setPos(-118,37)
+criteria = addCriteria("hasWizardHandbook", "minecraft:inventory_changed")
+criteria.addItem(<ebwizardry:wizard_handbook>)

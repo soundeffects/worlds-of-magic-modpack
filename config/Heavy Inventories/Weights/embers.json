@@ -1,0 +1,1664 @@
+{
+  "stone_edge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ember_injector": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ore_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plate_caminite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "anti_tinker_lens": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ember_siphon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tinker_hammer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ember_jar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ingot_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wall_ashen_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ashen_cloak_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ashen_stone_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "superheater": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_furnace": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seed_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nugget_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hoe_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ashen_cloak_legs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plate_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ember_receiver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steam_engine": [
+    {
+      "offset": 0.1,
+      "weight": 0.1
+    }
+  ],
+  "hoe_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charger": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pickaxe_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pickaxe_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ore_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "axe_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ember_activator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mixer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "winding_gears": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alchemy_tablet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "axe_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dust_metallurgic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plate_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pickaxe_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mech_core": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_pump": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ashen_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glimmer_shard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_marker": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_dropper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sword_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "axe_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "axe_dawnstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mech_edge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ashen_stone_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pump": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stirling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nugget_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stamp_bar_raw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stamp_gear": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alchemic_waste": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shovel_dawnstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flame_barrier": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "axe_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ashen_cloak_head": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ember_belt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ore_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ember_bulb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pickaxe_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cinder_plinth": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stairs_ashen_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plate_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ashen_cloth": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seed_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dawnstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sword_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grandhammer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tyrfing": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ember_bore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shovel_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "inferno_forge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dust_ash": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sword_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wall_caminite_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "axe_clockwork": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pickaxe_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stamp_flat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "creative_heat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "combustor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nugget_dawnstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "adhesive": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ashen_tile_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ember_emitter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_dawnstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seed_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aspectus_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stamper_base": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beam_cannon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "field_chart": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pickaxe_clockwork": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hoe_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ore_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seed_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ingot_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seed_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seed_dawnstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_transfer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mech_accessor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plate_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "intelligent_apparatus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blasting_core": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plate_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_gauge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "archaic_light": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alchemical_redstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ashen_cloak_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sword_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beam_splitter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stairs_ashen_tile": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_transfer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mechanical_pump": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ignition_cannon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "archaic_tile": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "large_tank": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "geo_separator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "archaic_circuit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shovel_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_caminite_brick_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mini_boiler": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ingot_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ember_detector": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glimmer_lamp": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_pipe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plate_caminite_raw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "axe_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ingot_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nugget_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ember_amulet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "catalytic_plug": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tinker_lens": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "axe_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seed_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "advanced_edge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stairs_ashen_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jet_augment": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "auto_hammer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ingot_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ashen_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ingot_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dawnstone_mail": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seed_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hoe_dawnstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hoe_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ember_cartridge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sword_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ingot_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pickaxe_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stairs_caminite_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alchemy_pedestal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nugget_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hoe_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crystal_cell": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pickaxe_dawnstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dawnstone_anvil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_valve": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plate_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ashen_brick_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ingot_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "explosion_pedestal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "inflictor_gem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nugget_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "axe_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shovel_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wall_ashen_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "catalyzer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shovel_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "heat_coil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nugget_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ashen_tile": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pickaxe_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "copper_cell": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nugget_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aspectus_dawnstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vacuum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dust_ember": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "boiler": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diffraction_barrel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shifting_scales": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "inferno_forge_edge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stamper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eldritch_insignia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ember_pulser": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shovel_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "focal_lens": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "caminite_lever": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plate_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plate_dawnstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_lantern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ashen_tile_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sword_dawnstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "explosion_charm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "archaic_mech_edge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stamp_flat_raw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ember_cluster": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_caminite_brick_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stamp_plate_raw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "breaker": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pickaxe_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aspectus_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sword_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_dawnstone": [
+    {
+      "offset": 0.1,
+      "weight": 0.1
+    }
+  ],
+  "aspectus_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "staff_ember": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "codex": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mech_actuator": [
+    {
+      "offset": 0.1,
+      "weight": 0.1
+    }
+  ],
+  "plate_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ore_quartz": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "isolated_materia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ember_ring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shovel_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shovel_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ember_relay": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "resonating_bell": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pipe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ashen_amulet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stamp_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_caminite_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "creative_ember_source": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ore_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ember_gauge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildfire_core": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hoe_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clockwork_attenuator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nonbeliever_amulet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sealed_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crystal_ember": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sword_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "archaic_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hoe_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "archaic_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wall_ashen_tile": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reactor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sword_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stamp_bar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ore_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ashen_brick_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shard_ember": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_motive_core": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hoe_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brick_caminite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "caster_orb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aspectus_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plate_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nugget_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "archaic_edge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ingot_dawnstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "axe_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stamp_gear_raw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shovel_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_tank": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ember_funnel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plate_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seed_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wrapped_sealed_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blend_caminite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

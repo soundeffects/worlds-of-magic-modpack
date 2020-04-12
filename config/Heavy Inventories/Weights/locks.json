@@ -1,0 +1,38 @@
+{
+  "key_blank": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lock_pick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "master_key": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "key_ring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "key": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "mace_of_destruction": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blood_orb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "promise_acceptor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "primed_pendant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bound_blood_drop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "piercing_vengeance_focus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_gem_crushed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dull_dust": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blood_waxed_coal_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blood_stained_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "entangled_chalice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hardened_blood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_power_gem_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lightning_bomb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eternal_water_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poison_sac": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mace_of_distortion": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "inverted_potentia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reinforced_undead_plank": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_power_gem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "necromancer_staff": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lightning_grenade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blood_potash": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vengeance_essence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "box_of_eternal_closure": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sanguinary_environmental_accumulator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "colossal_blood_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redstone_grenade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_spike": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spirit_furnace": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "veined_scribing_tools": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_poison": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_stick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "obscured_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blood_infusion_core": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poison_bottle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "condensed_blood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ender_tear": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spiked_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sceptre_of_thunder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spirit_reanimator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spirit_portal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_blood_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "undead_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "invigorating_pendant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sanguinary_pedestal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "undead_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_blood_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "werewolf_fur": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blood_pearl_of_teleportation": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_tank": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "potentia_sphere": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "display_stand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "promise": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spectral_glasses": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "darkened_apple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "purifier": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bucket_eternal_water": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "werewolf_flesh": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "undead_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "garmonbozia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "broom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "corrupted_tear": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "effortless_ring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blood_infuser": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kineticator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vengeance_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "environmental_accumulation_core": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vengeance_ring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gem_stone_torch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "creative_blood_drop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blood_waxed_coal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "broom_part": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_gem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vengeance_focus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biome_extract": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nether_monster_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rejuvenated_flesh": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vein_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "exalted_crafter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reinforced_undead_plank_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "environmental_accumulator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weather_container": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spikey_claws": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "origins_of_darkness": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "werewolf_bone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "undead_plank_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "invisible_redstone_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "burning_gem_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blood_extractor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bloody_cobblestone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "golden_string": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blood_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hardened_blood_shard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bowl_of_promises": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_blood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "undead_plank": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

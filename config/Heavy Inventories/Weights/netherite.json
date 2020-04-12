@@ -1,0 +1,80 @@
+{
+  "netheritepickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "netheritehelmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "netheritelegs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "netheriteboots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "netheritescrap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancientdebris": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "netheriteaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "netheriteblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "netheritesword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "netheritebody": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "netheritehoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "netheriteingot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "netheriteshovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

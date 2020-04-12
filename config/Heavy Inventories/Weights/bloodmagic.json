@@ -1,0 +1,698 @@
+{
+  "demon_crystal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blood_orb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "points_upgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "living_armour_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_fast_miner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sentient_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "base_item_filter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "path": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ritual_diviner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "altar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_elemental_affinity": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "demon_crucible": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "master_routing_node": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mimic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_blood_light": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "inversion_pillar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_teleposition": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alchemic_vial": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_divination": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "teleposer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alchemy_table": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "living_armour_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_routing_node": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bound_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_air": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blood_shard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "demon_stairs_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_green_grove": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "demon_pillar_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "demon_stairs_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "demon_pillar_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "demon_stairs_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_lava": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_bounce": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "demon_brick_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_demon_crystal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_phantom_bridge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decorative_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "inversion_pillar_end": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "inscription_tool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "living_armour_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ritual_reader": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "output_routing_node": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pack_sacrifice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_magnetism": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_holding": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "demon_will_gauge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sentient_armour_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "base_fluid_filter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_whirlwind": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "input_routing_node": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "component": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "experience_tome": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "demon_brick_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "activation_crystal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_water": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spectral": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "demon_light": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "living_armour_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dimensional_portal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sentient_bow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blood_tank": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sentient_armour_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "demon_wall_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ritual_controller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dagger_of_sacrifice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blood_light": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "soul_snare": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bound_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "altar_maker": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sentient_armour_gem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_ender_severance": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alchemy_array": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "demon_pillar_cap_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sentient_armour_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_haste": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "demon_pillar_cap_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "life_essence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "demon_pillar_cap_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sentient_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_frost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sacrificial_dagger": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phantom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "icarus_scroll": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_compression": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lava_crystal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "demon_crystallizer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "soul_forge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bound_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ritual_dismantler": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pack_self_sacrifice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_claw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "soul_gem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sentient_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "upgrade_tome": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "monster_soul": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "demon_pylon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arcane_ashes": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blood_rune": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ritual_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "demon_extras": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "node_router": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sentient_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cutting_fluid": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sentient_armour_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_suppression": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_transposition": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_void": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "teleposition_focus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "potion_flask": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "incense_altar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bound_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigil_seer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sanguine_book": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "upgrade_trainer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

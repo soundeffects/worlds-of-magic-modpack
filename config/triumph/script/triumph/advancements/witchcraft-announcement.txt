@@ -1,0 +1,8 @@
+setIcon(<patchouli:guide_book, nbt:{"patchouli:book":"bewitchment:book_of_shadows"}>)
+setTitle("School of Witchcraft")
+setDescription("Questionable arts; indisputable power.")
+addParent("triumph:advancements/schools")
+setPos(-153,-40)
+hideLines()
+criteria = addCriteria("hasShadowBook", "minecraft:inventory_changed")
+criteria.addItem(<patchouli:guide_book, nbt:{"patchouli:book":"bewitchment:book_of_shadows"}>)

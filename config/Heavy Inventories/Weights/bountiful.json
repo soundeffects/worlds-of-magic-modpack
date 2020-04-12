@@ -1,0 +1,20 @@
+{
+  "bounty": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bountyboard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bountyboarditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

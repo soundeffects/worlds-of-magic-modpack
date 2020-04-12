@@ -1,0 +1,1298 @@
+{
+  "valkyrie_cape": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nature_staff": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zanite_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zanite_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_ring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_bookshelf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "swetty_ball": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diamond_gloves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_bed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "welcoming_skies": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phoenix_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mossy_holystone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "white_flower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zanite_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gravitite_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "moa_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aetherium_core": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pillar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "golden_gloves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holystone_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zanite_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "obsidian_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dungeon_trap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "white_cape": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "invisibility_cape": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "angelic_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "burnt_cockatrice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "neptune_gloves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_standing_sign": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "neptune_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aerogel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "angelic_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valkyrie_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chest_mimic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zanite_ring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "agility_cape": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holystone_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aerogel_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quicksoil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zanite_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "yellow_cape": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holystone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gravitite_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ascending_dawn": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "neptune_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "golden_feather": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pillar_top": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holystone_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holystone_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quicksoil_glass_pane": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holystone_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "enchanted_blueberry": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ambrosium_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holystone_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valkyrie_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holystone_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zanite_gemstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_plank": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "golden_parachute": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zanite_gloves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lightning_knife": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holystone_brick_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aerogel_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cold_parachute": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "freezer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "enchanted_cockatrice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "berry_bush": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hellfire_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hellfire_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aether_grass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candy_cane": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "treasure_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valkyrie_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gravitite_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "enchanted_gravitite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zanite_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carved_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_gloves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sun_altar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "obsidian_gloves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phoenix_gloves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cockatrice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chain_gloves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_stick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holystone_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "life_shard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carved_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "red_cape": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gravitite_gloves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aechor_petal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "obsidian_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "healing_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lightning_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zanite_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valkyrie_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ice_pendant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phoenix_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "repulsion_shield": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gummy_swet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sentry_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "enchanter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carved_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "golden_ring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mossy_holystone_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "enchanted_aether_grass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holystone_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phoenix_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pig_slayer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holystone_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aetherion_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gravitite_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flaming_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_wall_sign": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ambrosium_shard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zanite_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holystone_brick_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "developer_stick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gravitite_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cooked_enchanted_cockatrice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aether_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holy_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aether_lever": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_bucket": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ambrosium_torch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hellfire_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "neptune_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valkyrie_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quicksoil_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dungeon_key": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "obsidian_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "regeneration_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "notch_hammer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phoenix_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "angelic_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ice_ring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holiday_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dart": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phoenix_bow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gravitite_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lore_book": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gravitite_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holystone_brick_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aether_tune": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_ladder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mossy_holystone_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "berry_bush_stem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aerogel_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aercloud": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gravitite_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "white_apple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "obsidian_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aether_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carved_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ginger_bread_man": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valkyrie_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "victory_medal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_crafting_table": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_sign": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ambrosium_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blue_berry": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candy_cane_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holystone_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hellfire_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aether_dirt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zanite_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vampire_blade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blue_cape": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leather_gloves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crystal_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dungeon_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "present": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zanite_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyroot_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "legacy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zanite_bars": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "locked_dungeon_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holystone_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dart_shooter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cloud_staff": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zanite_pendant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mossy_holystone_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valkyrie_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "incubator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valkyrie_gloves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_bubble": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valkyrie_lance": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zanite_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "swet_cape": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "purple_flower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "golden_amber": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zanite_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "angelic_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_pendant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "golden_pendant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "icestone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "golden_oak_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "neptune_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aerogel_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mossy_holystone_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zanite_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gravitite_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aether_portal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "downwards_bubble_column": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "upwards_bubble_column": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

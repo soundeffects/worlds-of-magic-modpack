@@ -1,0 +1,8 @@
+setIcon(<ebwizardry:wizard_handbook>)
+setTitle("School of Wizardry")
+setDescription("Glory to those well-versed.")
+addParent("triumph:advancements/schools")
+setPos(-153,37)
+hideLines()
+criteria = addCriteria("hasWizardHandbook", "minecraft:inventory_changed")
+criteria.addItem(<ebwizardry:wizard_handbook>)

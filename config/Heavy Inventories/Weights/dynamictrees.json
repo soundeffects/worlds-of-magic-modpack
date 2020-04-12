@@ -1,0 +1,200 @@
+{
+  "oakbranchx": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dirtbucket": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rootydirtspecies": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fruit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cactusbranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "darkoakbranchx": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sprucebranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jungleseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trunkshell": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spruceseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "birchseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "acaciaseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bonsaipot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oakbranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rootydirtfake": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fruitcocoa": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rootysand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "darkoakseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "birchbranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rootydirt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "staff": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sprucebranchx": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "acaciabranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "junglebranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dendropotion": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cactusseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "darkoakbranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "darkoakroot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "appleseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oakseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

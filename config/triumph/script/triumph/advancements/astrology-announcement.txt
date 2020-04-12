@@ -1,0 +1,8 @@
+setIcon(<astralsorcery:itemjournal>)
+setTitle("School of Astrology")
+setDescription("Stars whisper secrets.")
+addParent("triumph:advancements/schools")
+setPos(-153,113)
+hideLines()
+criteria = addCriteria("hasAstralTome", "minecraft:inventory_changed")
+criteria.addItem(<astralsorcery:itemjournal>)

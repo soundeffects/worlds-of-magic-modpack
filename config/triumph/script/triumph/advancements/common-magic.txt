@@ -1,0 +1,8 @@
+setIcon(<minecraft:enchanting_table>)
+setTitle("Common Magic")
+setAnnounceToChat(false)
+setDescription("Common magic is rudimentary knowledge of the world, it is fit for all mages to learn. To introduce yourself to common magic, you must enchant an item.")
+addParent("triumph:advancements/schools")
+hideLines()
+setPos(-153,63)
+criteria = addCriteria("enchanted", "minecraft:enchanted_item")

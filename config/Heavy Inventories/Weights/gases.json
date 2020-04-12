@@ -1,0 +1,128 @@
+{
+  "gas_finine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gas_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gas_black_damp": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "heated_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gas_steam": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "heated_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "heated_redstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "heated_lapis": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "heated_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gas_natural": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gas_helium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gas_whispering_fog": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diabaline": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "advanced_respirator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "primitive_respirator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gas_iocalfaeus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gas_nitrous": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "whispering_fog_emitter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gas_coal_dust": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "heated_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gas_void": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

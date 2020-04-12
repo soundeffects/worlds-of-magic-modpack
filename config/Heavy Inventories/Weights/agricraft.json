@@ -1,0 +1,122 @@
+{
+  "trowel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peripheral": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clipping": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crop_sticks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seed_analyzer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "debugger": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "water_channel_normal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "water_pad": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "water_channel_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "journal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "agri_nugget": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magnifying_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "agri_seed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "water_tank": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "water_channel_valve": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rake": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clipper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sprinkler": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

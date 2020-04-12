@@ -1,0 +1,8 @@
+setIcon(<gbook:guidebook, nbt:{Book:"ltta:xml/ltta.xml"}>)
+setTitle("Astral Projection: The Nether")
+setAnnounceToChat(false)
+setDescription("...")
+addParent("triumph:advancements/astral-projection-dimensional-doors")
+setPos(43,44)
+criteria = addCriteria("hasLTTA", "minecraft:inventory_changed")
+criteria.addItem(<gbook:guidebook, nbt:{Book:"ltta:xml/ltta.xml"}>)

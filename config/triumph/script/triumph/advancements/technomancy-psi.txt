@@ -1,0 +1,8 @@
+setIcon(<embers:codex>)
+setTitle("Technomancy: Psi")
+setAnnounceToChat(false)
+setDescription("...")
+addParent("triumph:advancements/technomancy")
+setPos(-118,11)
+criteria = addCriteria("hasCodex", "minecraft:inventory_changed")
+criteria.addItem(<embers:codex>)

@@ -1,0 +1,962 @@
+{
+  "funnel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seal_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alt_planks_slab1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alt_planks_slab0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seal_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "circuit_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_magenta": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aqua_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sleep_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "actuator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "perdition_fist": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "corporea_resonator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thunder_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sand_trap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_lime": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_gray_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "divine_core": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mortal_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fenris_legs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "priest_emblem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_brown_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_dye_awakened": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alt_planks_slab3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alt_planks_slab2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_cyan_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alt_planks_slab5": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alt_planks_slab4": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "divine_cloak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "root_trap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flarebringer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_purple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rainbow_planks_slab_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rainbow_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_white_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rainbow_planks_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seal_planks_slab_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "xp_tome": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_pink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alt_leaves1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "calico_planks_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alt_leaves0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_green_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_yellow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_gray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thunder_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "travel_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rainbow_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eclipse_legs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_black_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wrath_trap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prism_flame": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seal_arrow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ragnarok_emblem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_dirt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "portal_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alt_planks_slab0_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alt_planks_slab3_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "star": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eclipse_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_log0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thunder_planks_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_log1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_log2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_belt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_log3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crackling_star": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "launch_trap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poly_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "signal_trap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eclipse_helm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apple_immortality": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "circuit_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_light_blue_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seal_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sunmaker_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alt_planks_slab1_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aqua_pane": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_white": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thunder_trap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alt_log0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alt_log1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "corporea_focus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aurora_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_cyan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alt_planks_slab2_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_pink_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seal_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "resource": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eclipse_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aurora_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fenris_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mjolnir": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_orange": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "circuit_planks_slab_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spell_icon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "inferno_trap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "death_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_orange_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_brown": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thunder_planks_slab_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rainbow_dirt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_red_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "calico_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "calico_planks_slab_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sunmaker_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_leaves1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thunder_fist": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_leaves0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_leaves3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_leaves2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amp": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "toolbelt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prism_rod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alt_planks_slab4_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thunder_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_dye": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aurora_dirt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "foodbelt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fenris_helm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sunmaker_helm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alt_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seal_planks_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alt_planks_slab5_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shadowbreaker": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "calico_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_silver_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fate_horn": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_blue_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_light_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "disorient_trap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_magenta_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thunder_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sunmaker_legs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "circuit_planks_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "circuit_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_lime_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spell_focus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_yellow_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dye_shard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aurora_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightscourge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aurora_planks_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "find_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aurora_planks_slab_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "calico_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holy_symbol": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_purple_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_lamp": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "calico_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fenris_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "circuit_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iris_planks_slab_black": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rainbow_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

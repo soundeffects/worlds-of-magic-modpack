@@ -1,0 +1,710 @@
+{
+  "fluid_bottle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fence_ironwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "andesite_pillar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironberry_juice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chain_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vase": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildberry_juice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "evaporating_basin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildberries": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironwood_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tallow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stake_tied": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chamomile": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "honeycomb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cohosh": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dust_tiny_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironwoodroot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grape_juice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ginseng": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crushing_tub": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chili_pepper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_big_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chili_pepper_seeds": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_pillar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tomato": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wildberry_bush": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_spruce": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "horsetail": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diorite_pillar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_ironwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "condenser": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wind_thistle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beeswax": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "olive_oil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_lantern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "barrel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sapling_apple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chain": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_olive": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chandelier": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "condenser_advanced": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "olive_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_ironwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fence_gate_olive": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "granite_pillar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_big_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grape_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "olives": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clay_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironwood_doubleslab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mooncap_mushroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cabinet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_birch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "golden_lantern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_apple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bee": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironwood_slab_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironberries": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cloudsbluff": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apple_juice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stairs_ironwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fence_gate_ironwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "retort_advanced": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fence_olive": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ale_wort": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_jungle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_spruce": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chili_crop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tomato_crop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deathstalk_mushroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "olivebranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "marsh_mallow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grapes": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fertile_soil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elixir": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "book": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rope": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_acacia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_jungle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_olive": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blood_orchid": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beehive": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clay_wall_diag": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gargoyle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aloe_vera": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_birch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apple_seeds": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candle_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "honey": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stairs_olive": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brewing_barrel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironwood_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grape_stem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chandelier_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironwoodbranchx": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "olive_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crop_stake": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "core_root": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "liquid_barrel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apiary": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironwoodseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tomato_seeds": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clay_wall_cross": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "olive_doubleslab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oliveseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "olive_slab_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironwoodbranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_lattice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_acacia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "retort": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

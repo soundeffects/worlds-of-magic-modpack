@@ -1,0 +1,194 @@
+{
+  "table_jacaranda": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_pine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_umbran": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_palm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_palm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_redwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_magic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_pine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_eucalyptus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_jacaranda": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_fir": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_ethereal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_umbran": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_ebony": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_mangrove": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_cherry": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_hellbark": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_fir": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_cherry": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_sacred_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_sacred_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_mahogany": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_eucalyptus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_mahogany": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_ebony": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_willow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_mangrove": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_magic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_redwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_ethereal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_hellbark": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_willow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

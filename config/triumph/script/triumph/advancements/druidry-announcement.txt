@@ -1,0 +1,8 @@
+setIcon(<patchouli:guide_book, nbt:{"patchouli:book":"roots:roots_guide"}>)
+setTitle("School of Druidry")
+setDescription("The trees listen.")
+addParent("triumph:advancements/schools")
+setPos(-153,162)
+hideLines()
+criteria = addCriteria("hasRootsBook", "minecraft:inventory_changed")
+criteria.addItem(<patchouli:guide_book, nbt:{"patchouli:book":"roots:roots_guide"}>)

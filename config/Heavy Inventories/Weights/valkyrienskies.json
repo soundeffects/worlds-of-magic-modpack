@@ -1,0 +1,26 @@
+{
+  "creative_physics_infuser": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dummy_physics_infuser": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "physics_core": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "physics_infuser": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

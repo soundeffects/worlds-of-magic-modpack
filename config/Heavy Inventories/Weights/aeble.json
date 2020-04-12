@@ -1,0 +1,50 @@
+{
+  "obsidian_ring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ice_ring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "luck_belt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "regeneration_ring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valkyrie_belt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zanite_ring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "air_ring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bubble_ring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

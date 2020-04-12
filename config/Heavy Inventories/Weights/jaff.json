@@ -1,0 +1,68 @@
+{
+  "iron_hook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fish_bones": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wooden_fishing_rod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fish_bucket_salmon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fish_bucket_pufferfish": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_fishing_rod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fish_bucket_clownfish": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "golden_fishing_rod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tank": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diamond_fishing_rod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fish_bucket_cod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

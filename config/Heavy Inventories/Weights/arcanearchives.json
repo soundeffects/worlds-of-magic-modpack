@@ -1,0 +1,314 @@
+{
+  "parchtear": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "radiant_trove": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "agegleam": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "material_interface": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elixirspindle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "radiant_crafting_table": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "debugorb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage_raw_quartz": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "radiant_tank": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "devouring_charm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz_sliver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mountaintear": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phoenixway": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "salvegleam": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lectern_manifest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "raw_quartz_cluster": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "raw_quartz": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rivertear": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fake_air": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cleansegleam": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mindspindle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "writ_expulsion": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chromatic_powder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stormway": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "matrix_brace": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brazier_of_hoarding": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "murdergleam": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "switchgleam": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "munchstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "radiant_amphora": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "letter_resignation": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage_shaped_quartz": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "radiant_lantern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gemcutters_table": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shaped_quartz": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "radiant_key": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "radiant_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scepter_revelation": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "full_spectrum_chromatic_powder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "letter_invitation": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "radiant_dust": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "radiant_resonator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scintillating_inlay": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slaughtergleam": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manifest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brazier_of_hoarding_fire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gemsocket": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "containment_field": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tome_arcana": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scepter_manipulation": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "orderstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "monitoring_crystal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+setIcon(<minecraft:enchanting_table>)
+setTitle("Mastery of All Things")
+setDescription("Unrivaled in wisdom.")
+addParent("triumph:advancements/end")
+setPos(-26,52)
+hideLines()
+criteria = addCriteria("enchanted", "minecraft:enchanted_item")

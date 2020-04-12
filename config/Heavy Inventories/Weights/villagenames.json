@@ -1,0 +1,122 @@
+{
+  "lunaringoldbrick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fortressbook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nibiruvillagebook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "desertpyramidbook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "swamphutbook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mineshaftbook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "igloobook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lunarinironbrick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "codex": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "monumentbook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mansionbook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "villagebook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fronosvillagebook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "abandonedbasebook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jungletemplebook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "moonvillagebook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "koentusvillagebook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "strongholdbook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "templebook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "endcitybook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

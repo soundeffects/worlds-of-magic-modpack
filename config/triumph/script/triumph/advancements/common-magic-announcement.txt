@@ -1,0 +1,7 @@
+setIcon(<minecraft:enchanting_table>)
+setTitle("School of Common Magic")
+setDescription("Magic is real.")
+addParent("triumph:advancements/schools")
+setPos(-118,63)
+hideLines()
+criteria = addCriteria("enchanted", "minecraft:enchanted_item")

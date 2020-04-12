@@ -1,0 +1,7 @@
+setIcon(<minecraft:enchanting_table>)
+setTitle("The End... of the Beginning")
+setDescription("The Ender Dragon has been slain.")
+addParent("triumph:advancements/common-magic")
+setPos(-89,49)
+hideLines()
+criteria = addCriteria("enchanted", "minecraft:enchanted_item")

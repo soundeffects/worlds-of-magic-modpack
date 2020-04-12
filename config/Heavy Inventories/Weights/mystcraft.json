@@ -1,0 +1,128 @@
+{
+  "blockbookreceptacle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockbookstand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockdecay": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockinkmixer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockbookbinder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocklectern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vial": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocklinkmodifier": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "booster": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "writingdesk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockstarfissure": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glasses": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockcrystal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "folder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluidblockblackink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "agebook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "portfolio": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "linkbook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "page": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unlinkedbook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "linkportal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

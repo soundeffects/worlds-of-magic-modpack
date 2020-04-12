@@ -1,0 +1,446 @@
+{
+  "itemilluminationwand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockblackmarble": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockmachine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockportalnode": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktranslucentblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocklens": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockcustomore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iteminfusedglass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockattunementrelay": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemtunedcelestialcrystal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockmarble": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemarchitectwand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemchargedcrystalaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockcustomsandore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockgeolosyssamplecluster": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockmarbleslab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemrockcrystalsimple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemgrapplewand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockfaketree": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockattunementaltar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockinfusedwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockstructural": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockmapdrawingtable": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemjournal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockgemcrystals": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktreebeacon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockobservatory": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockcollectorcrystal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemchargedcrystalshovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemknowledgefragment": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemwand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemperkgem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockrituallink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemhandtelescope": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemshiftingstar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemlinkingtool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemtunedrockcrystal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockborehead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockstarlightinfuser": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemcrystalsword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluidblockliquidstarlight": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockmarblestairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemchargedcrystalpickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemenchantmentamulet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockprism": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockcustomflower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockbore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockwell": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemfragmentcapsule": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockvanishing": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemcape": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemskyresonator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemconstellationpaper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemcraftingcomponent": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockcelestialcrystals": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemcrystalshovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemexchangewand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemusabledust": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemcrystalaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockcelestialgateway": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockaltar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemperkseal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemsextant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemcelestialcrystal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemcrystalpickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockflarelight": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockritualpedestal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockworldilluminator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockcelestialcollectorcrystal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemchargedcrystalsword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemknowledgeshare": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockmarbledoubleslab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemcoloredlens": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockchalice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

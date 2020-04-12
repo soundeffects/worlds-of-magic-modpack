@@ -1,0 +1,158 @@
+{
+  "barako_mask": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spawn_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grant_suns_blessing": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blowgun": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dart": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spear": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "barakoa_mask_fear": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "painted_acacia_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "barakoa_mask_bliss": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glowing_jelly": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "campfire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "captured_grottol": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "barakoa_mask_misery": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mob_remover": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wrought_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "foliaath_seed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "naga_fang": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "painted_acacia_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "earth_talisman": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wrought_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ice_crystal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "barakoa_mask_rage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "barakoa_mask_fury": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "test_structure": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "painted_acacia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grottol": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

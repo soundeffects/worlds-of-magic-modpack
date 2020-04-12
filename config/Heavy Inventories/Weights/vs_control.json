@@ -1,0 +1,158 @@
+{
+  "passenger_chair": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dummy_telegraph": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vs_wrench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "captains_chair": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lift_lever": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rudder_part": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "speed_telegraph": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ship_helm_wheel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valkyrium_engine_part": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gyroscope_dampener": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "compacted_valkyrium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ship_helm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ultimate_engine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "network_display": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valkyrium_compressor_part": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gearbox": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "advanced_engine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redstone_engine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "network_relay": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gyroscope_stabilizer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "basic_engine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "relay_wire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rotation_axle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elite_engine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lift_valve": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "giant_propeller_part": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

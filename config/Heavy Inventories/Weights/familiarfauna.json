@@ -1,0 +1,56 @@
+{
+  "bug_net": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "venison_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bug_habitat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pixie_dust": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "venison_raw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ff_icon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "snail_shell": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turkey_leg_raw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turkey_leg_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

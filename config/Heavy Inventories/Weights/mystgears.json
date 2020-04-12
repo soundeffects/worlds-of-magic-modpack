@@ -1,0 +1,188 @@
+{
+  "ember_gatling_gun": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_antimony": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_thaumium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "essentia_motor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "windup_box": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redstone_dynamo": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mechanical_dial": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_void": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "drill_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_aluminium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "witchburn_gatling_gun": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_terrasteel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_googly_eye": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gearanium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "drill": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_black_hole": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crafter_mechanical": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_elvenelementium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vis_motor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bellows_mechanical": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_manasteel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

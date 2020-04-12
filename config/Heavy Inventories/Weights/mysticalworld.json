@@ -1,0 +1,536 @@
+{
+  "copper_knife": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charred_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_dust": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_ingot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "copper_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unripe_pearl": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charred_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pelt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aubergine_crop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "epic_squid": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "venison": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amethyst_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_block_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amethyst_knife": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thatch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charred_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amethyst_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "copper_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charred_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ink_bottle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silk_thread": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "copper_dust": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wet_mud_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "copper_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "copper_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_dust_tiny": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_block_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aubergine_seed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "raw_squid": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charred_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_block_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charred_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_block_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amethyst_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aubergine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cooked_apple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_knife": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "copper_ingot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carapace": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poisoned_potato_crop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gold_dust_tiny": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amethyst_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silkworm_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "copper_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "copper_dust_tiny": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "copper_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_block_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "copper_nugget": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_nugget": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charred_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_block_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amethyst_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amethyst_gem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_block_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spindle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cooked_squid": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silk_cocoon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_dust_tiny": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "antlers": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charred_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_dust": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charred_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gold_dust": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amethyst_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cooked_aubergine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stuffed_aubergine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amethyst_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "copper_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wet_mud_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_block_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charred_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cooked_venison": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+setIcon(<minecraft:enchanting_table>)
+setTitle("The End... of the Beginning")
+setAnnounceToChat(false)
+setDescription("Defeat the end dragon, and you shall be blessed with further specialization into another school.")
+addParent("triumph:advancements/common-magic")
+setPos(-89,49)
+criteria = addCriteria("enchanted", "minecraft:enchanted_item")

@@ -1,0 +1,164 @@
+{
+  "world_thread": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rift_configuration_tool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dimensional_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dimensional_portal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "woven_world_thread_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unstable_dimensional_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_fabric": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "woven_world_thread_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "woven_world_thread_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rift_signature": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unravelled_fabric": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rift_blade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "woven_world_thread_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gold_dimensional_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_dimensional_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oak_dimensional_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rift_remover": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stabilized_rift_signature": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eternal_fabric": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rift": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stable_fabric": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz_dimensional_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fabric": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gold_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rift_stabilizer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "record_creepy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "plaster": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bandage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "morphine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

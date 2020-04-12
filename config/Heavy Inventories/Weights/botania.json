@@ -1,0 +1,2294 @@
+{
+  "skydirtrod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartzslabblazehalf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartzstairsblaze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartzslabelfhalf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "obediencestick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blacklotus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elementiumshears": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redstringcomparator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea15slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "astrolabe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "livingwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dreamwood0slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea1stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "incensestick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea4slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infinitefruit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "altar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea7slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hourglass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb2slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thornchakram": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartzslabsunnyhalf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mushroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brewflask": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartzslablavenderhalf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spellcloth": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pavement1slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pavement0slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea0slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vial": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea11stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb4stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rainbowrod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magnetring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manaweavelegs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartzslabmanafull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb6slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pavement5slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tinyplanetblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea6stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "supertravelbelt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "waterbowl": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "livingrock0slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manabomb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea8slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manasteellegs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "corporeacrystalcube": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spreader": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pavement3stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manasteelpick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reachring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartztypesunny": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pistonrelay": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "virus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manadetector": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "managun": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redstringcontainer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flugeleye": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dodgering": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb5slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "managlass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "craftinghalo": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spark": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartzslabredfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pavement3slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poolminecart": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "enchantedsoil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thirdeye": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea14slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pump": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb1slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redstringdispenser": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smeltrod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea12slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pinkinator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shimmerwoodplanks0slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "distributor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dreamwood0stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dye": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manabottle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "terrasteelhelm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartzslabsunnyfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elfglasspane": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "twigwand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "terrasteelboots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "overgrowthseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea11slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fakeair": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "terrasteelchest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gravityrod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "livingwood0wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb1slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartzstairsred": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea1slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spawnermover": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb5stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redstringinterceptor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cocoon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "waterring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea5stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "firerod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "speedupbelt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "laputashard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shimmerrock0stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "floatingspecialflower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartztypemana": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea12stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bifrostperm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flighttiara": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cosmetic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "miningring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea9slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartzstairself": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartzstairslavender": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manainkwell": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slingshot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cacophoniumblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb2stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dreamwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manasteelshears": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "buriedpetals": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lightlauncher": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grassseeds": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dreamwood1stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shimmerwoodplanks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "endereyeblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "doubleflower1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elementiumaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "doubleflower2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartzslabredhalf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tinyplanet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bifrostpermpane": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea0wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lokiring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "livingrock0stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "divacharm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "livingwood0slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pavement2slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pavement0stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "specialflower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "livingwood1slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea1slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "invisibilitycloak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gaiaheadblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pylon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "managlasspane": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pestleandmortar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb3stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb6slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "livingwood0stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea4slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unholycloak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turntable": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartzslablavenderfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartztypered": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "terrasword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lens": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holycloak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea10stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kingkey": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sextant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dreamwood1slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manaringgreater": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "openbucket": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartzslabmanahalf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phantomink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb3slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shimmerrock0slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "root": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "missilerod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elfglass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartzslabblazefull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea7stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manaweaveboots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pavement1slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sparkupgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cacophonium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb0slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartzslabelffull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "altgrass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "goddesscharm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "monocle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blackholetalisman": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "odinring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elementiumboots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "livingrock1stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "felpumpkin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "temperancestone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartztypeelf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shinyflower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "knockbackbelt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "craftpattern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea11slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manaflame": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dreamwood0slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea8stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manasteelboots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manasteelhelmreveal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "corporeaindex": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea5slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea3slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vineball": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manavoid": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elementiumlegs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bellows": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea13slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "enchanter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "petalblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ghostrail": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb1stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pavement3slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manasteelsword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "icependant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rune": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dreamwood0wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pavement4slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea2slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shimmerwoodplanks0slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sparkchanger": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pavement1stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "miniisland": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elementiumpick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glasspick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartztypelavender": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea13slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cobblerod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manacookie": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb2slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magnetringgreater": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "livingrock0wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prism": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elementiumshovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "keepivy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flowerbag": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea9stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "livingrock1slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb4slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "livingwood1stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bloodpendant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "terraaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manaweavechest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "corporearetainer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manaresource": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "balancecloak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea14stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manaweavehelm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rfgenerator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "animatedtorch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diviningrod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tornadorod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manasteelchest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea9slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "livingwood0slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartzstairsmana": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alfheimportal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redstringrelay": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartztypeblaze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cellblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "baublebox": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "superlavapendant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea3stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "terrapick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea10slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "livingwood1slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "custombrick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb7slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea6slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea0slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "swapring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "livingrock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cloudpendant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alchemycatalyst": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "conjurationcatalyst": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brewery": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "livingwoodbow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lexicon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb7stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "enderdagger": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pavement": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea4stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "terrasteelhelmreveal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dreamwood1slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manasteelhelm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "avatar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pavement2stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea6slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "terrasteellegs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thorring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "incenseplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb0stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea13stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb5slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "livingrock1slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb0slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb6stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dirtrod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tinypotato": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea10slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clip": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shimmerwoodplanks0stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea3slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pixiering": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slimebottle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea15stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pavement4slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pavement5stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shimmerrock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "teruterubozu": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea5slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "corporeafunnel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "auraring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "travelbelt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "auraringgreater": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runealtar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "corporeaspark": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea14slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea2stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "forestdrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pavement2slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea15slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "recordgaia1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "recordgaia2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "exchangerod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartzstairssunny": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "foresteye": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thundersword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "supercloudpendant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elementiumchest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancientwill": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manaring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "terraformrod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "autocraftinghalo": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "livingrock0slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb4slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lightrelay": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea0stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "starfield": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "solidvine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb3slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "enderhand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elementiumsword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manasteelshovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lavapendant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea2slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manatablet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea12slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "platform": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "waterrod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "petal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea8slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pavement0slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gaiahead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "opencrate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestonea7slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pavement4stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crystalbow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redstringfertilizer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manamirror": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shimmerrock0slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "corporeainterceptor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fertilizer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elementiumhelm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemfinder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "terraplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pavement5slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grasshorn": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spawnerclaw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manasteelaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brewvial": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomestoneb7slabfull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elementiumhelmreveal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "worldseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "starsword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blazeblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bifrost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

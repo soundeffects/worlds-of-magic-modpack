@@ -1,0 +1,80 @@
+{
+  "journey_hub_spiral": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "journey_cloth_spiral": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "traffic_cone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "maintainer_suit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "locked_lectern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "journey_cloth_hand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "locked_bookstand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unstable_receptacle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "journey_hub_hand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nexus_controller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unstable_portal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "journey_cloth_shell": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "journey_hub_shell": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

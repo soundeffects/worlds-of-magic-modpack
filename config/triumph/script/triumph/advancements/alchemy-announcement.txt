@@ -1,0 +1,8 @@
+setIcon(<thaumcraft:thaumonomicon>)
+setTitle("School of Alchemy")
+setDescription("Order is universal.")
+addParent("triumph:advancements/schools")
+hideLines()
+setPos(-153,-15)
+criteria = addCriteria("hasThaumonomicon", "minecraft:inventory_changed")
+criteria.addItem(<thaumcraft:thaumonomicon>)

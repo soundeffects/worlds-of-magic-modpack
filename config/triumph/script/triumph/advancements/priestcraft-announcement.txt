@@ -1,0 +1,8 @@
+setIcon(<patchouli:guide_book, nbt:{"patchouli:book":"bewitchment:book_of_shadows"}>)
+setTitle("School of Priestcraft")
+setDescription("Blessings be upon us.")
+addParent("triumph:advancements/schools")
+setPos(-153,138)
+hideLines()
+criteria = addCriteria("hasLexicaBotania", "minecraft:inventory_changed")
+criteria.addItem(<patchouli:guide_book, nbt:{"patchouli:book":"bewitchment:book_of_shadows"}>)

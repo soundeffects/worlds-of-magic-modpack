@@ -1,0 +1,302 @@
+{
+  "floweringoakseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redwoodseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mahoganyseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redwoodroot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pineseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "palmbranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves4": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves5": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves6": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves7": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "firbranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hellbarkbranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deadbranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jacarandaseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pinkcherryseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "willowseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "yellowautumnseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "orangeautumnseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cherrybranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bambooseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "umbranseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ebonyseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redwoodbranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hellbarkseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eucalyptusseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redwoodbranchx": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mahoganybranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "umbranbranchx": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_flowering": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "willowbranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "umbranconiferseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bamboobranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ebonybranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_palm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jacarandabranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magicbranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "umbranbranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "palmseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "firseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pinebranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oakdyingseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eucalyptusbranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magicseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "whitecherryseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "firbranchx": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mapleseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

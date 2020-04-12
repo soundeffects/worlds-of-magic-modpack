@@ -1,0 +1,8 @@
+setIcon(<astralsorcery:itemjournal>)
+setTitle("Astrology: Valkyrien Skies")
+setAnnounceToChat(false)
+setDescription("...")
+addParent("triumph:advancements/astrology")
+setPos(-118,113)
+criteria = addCriteria("hasAstralTome", "minecraft:inventory_changed")
+criteria.addItem(<astralsorcery:itemjournal>)

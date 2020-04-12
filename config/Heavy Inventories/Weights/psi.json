@@ -1,0 +1,152 @@
+{
+  "detonator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "psimetal_exosuit_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cad_battery": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "exosuit_controller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cad": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "psimetal_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cad_colorizer_": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "conjured": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cad_socket": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cad_assembly": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "psi_decorative": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "psimetal_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "psimetal_exosuit_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "exosuit_sensor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spell_drive": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "psimetal_exosuit_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cad_core": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "psimetal_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "programmer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "psimetal_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vector_ruler": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "material": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spell_bullet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "psimetal_exosuit_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cad_assembler": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

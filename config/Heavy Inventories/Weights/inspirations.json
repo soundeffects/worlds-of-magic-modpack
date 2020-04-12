@@ -1,0 +1,218 @@
+{
+  "glass_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arrow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rope": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpeted_trapdoor_pink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpeted_trapdoor_orange": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "edibles": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dyed_bottle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "collector": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "path": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpeted_pressure_plate_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpeted_trapdoor_yellow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpeted_trapdoor_purple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpeted_pressure_plate_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpeted_trapdoor_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpeted_trapdoor_light_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pipe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glass_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mulch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "waypoint_compass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpeted_trapdoor_white": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpeted_trapdoor_black": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bookshelf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "potato_soup": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpeted_trapdoor_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "barometer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpeted_trapdoor_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "north_compass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpeted_trapdoor_lime": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpeted_trapdoor_magenta": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpeted_trapdoor_brown": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "books": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bricks_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpeted_trapdoor_cyan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "materials": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpeted_trapdoor_gray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpeted_trapdoor_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

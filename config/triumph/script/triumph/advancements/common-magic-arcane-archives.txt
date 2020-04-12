@@ -1,0 +1,7 @@
+setIcon(<minecraft:enchanting_table>)
+setTitle("Common Magic: Arcane Archives")
+setAnnounceToChat(false)
+setDescription("...")
+addParent("triumph:advancements/common-magic")
+setPos(-118,63)
+criteria = addCriteria("enchanted", "minecraft:enchanted_item")

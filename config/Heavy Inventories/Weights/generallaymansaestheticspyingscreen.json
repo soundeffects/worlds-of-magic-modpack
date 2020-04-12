@@ -1,0 +1,14 @@
+{
+  "block_glass_terminal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

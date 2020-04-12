@@ -1,0 +1,62 @@
+{
+  "greatwoodbranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silverwoodroot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "greatwoodbranchx": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silverwoodseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silverwoodbranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silverwoodbranchx": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "greatwoodroot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_silverwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "greatwoodseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

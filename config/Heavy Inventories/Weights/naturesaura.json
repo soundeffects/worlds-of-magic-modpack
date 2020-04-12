@@ -1,0 +1,560 @@
+{
+  "infused_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "furnace_heater": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gold_leaf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "field_creator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infused_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generator_limit_remover": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infused_iron_pants": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dimension_rail_nether": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infused_iron_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_stick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "token_sorrow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decayed_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "projectile_generator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chunk_loader": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "firework_generator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infused_iron_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aura_trove": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infused_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dimension_rail_end": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aura_bottle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "animal_generator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "range_visualizer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infused_iron_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ender_crate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eye": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "token_euphoria": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "token_fear": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "golden_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eye_improved": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infused_iron_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bottle_two_the_rebottling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infused_iron_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cave_finder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shockwave_creator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infused_iron_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "token_anger": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aura_detector": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "end_flower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "multiblock_maker": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pickup_stopper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infused_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "animal_spawner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dimension_rail_overworld": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "calling_spirit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wood_stand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "auto_crafter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nature_altar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "effect_powder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ender_access": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "conversion_catalyst": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crushing_catalyst": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "token_rage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "token_terror": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infused_brick_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gold_fiber": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mover_cart": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "powder_placer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "offering_table": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flower_generator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infused_iron_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infused_brick_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infused_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gold_powder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infused_iron_shoes": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sky_ingot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "token_grief": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "farming_stencil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infused_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clock_hand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grated_chute": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_bark": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infused_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spawn_lamp": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "moss_generator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "placer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rf_converter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "birth_spirit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infused_iron_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hopper_upgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aura_cache": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "color_changer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oak_generator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "time_changer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "token_joy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gold_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "potion_generator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "greenhouse_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "season_sensor_autumn": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "season_sensor_summer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "season_sensor_winter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "season_clock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ss_icon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "season_sensor_spring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "zanite_shield": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crystal_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gale_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gale_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "platinum_key": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "songstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "agility_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "locked_gale_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phoenix_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gale_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "power_gloves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "light_gale_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "swetty_mask": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gale_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jeb_shield": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "locked_light_gale_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phoenix_cape": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sentry_shield": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phoenix_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "invisibility_gem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phoenix_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gravitite_shield": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gale_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phoenix_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+setIcon(<minecraft:enchanting_table>)
+setTitle("Mastery of All Things")
+setAnnounceToChat(false)
+setDescription("Obtain 120 Levels at one time, and you shall be granted specialization into an additional school.")
+addParent("triumph:advancements/end")
+setPos(-26,52)
+criteria = addCriteria("enchanted", "minecraft:enchanted_item")

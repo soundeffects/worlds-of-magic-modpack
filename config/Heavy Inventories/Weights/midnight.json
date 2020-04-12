@@ -1,0 +1,1532 @@
+{
+  "nightshroom_shelf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shadowroot_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_pearl_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unstable_bush_green_bloomed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shadowroot_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_willow_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ebonys_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unstable_fruit_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dewshroom_powder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deceitful_moss": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dead_wood_ladder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trenchstone_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shadowroot_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dead_wood_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_willow_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "viridshroom_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_willow_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dewshroom_hat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "viridshroom_stem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nagrilite_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "advancement_snapper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightshroom_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shadowroot_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shadowroot_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tenebrum_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightshroom_sporch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rockshroom_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shadowroot_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rockshroom_clump": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tenebrum_ingot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dewshroom_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightshroom_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "geode": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bladeshroom_spores": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dewshroom_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "viridshroom_powder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "double_bogshroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dead_wood_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "viridshroom_sporch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trenchstone_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightstone_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_willow_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ebonys_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rockshroom_bricks_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cook_stag_flank": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightstone_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deceitful_mud": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_willow_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dewshroom_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dead_wood_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "raw_stag_flank": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shadowroot_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dewshroom_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "viridshroom_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nagrilite_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightstone_brick_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "viridshroom_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bloomcrystal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trenchstone_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unstable_fruit_lime": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "double_lumen_bud": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_willow_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightstone_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightstone_brick_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "double_dewshroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dewshroom_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dewshroom_sporch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rockshroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dewshroom_shelf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "midnight_dirt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightshroom_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightshroom_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bladeshroom_cap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_willow_ladder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightstone_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tenebrum_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ebonys": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unstable_seeds": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "viridshroom_hat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nagrilite_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rockshroom_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ebonys_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dead_wood_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cook_stinger_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "archaic_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shadowroot_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trenchstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightstone_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rouxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightshroom_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ghost_plant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shadowroot_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "midnight_furnace": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deceitful_snapper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rockshroom_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "double_viridshroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tenebrum_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightshroom_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tenebrum_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stinger_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runebush": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dewshroom_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trenchstone_brick_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nagrilite_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "midnight_coarse_dirt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_willow_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tenebrum_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crystalotus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rockshroom_shield": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "violeaf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spore_bomb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_willow_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trenchstone_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trenchstone_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shadowroot_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dead_wood_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightstone_brick_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "viridshroom_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dead_wood_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_water": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nagrilite_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "viridshroom_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unstable_bush_blue_bloomed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_willow_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shadowroot_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dewshroom_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "archaic_glass_pane": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cook_suavis": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "viridshroom_shelf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "viridshroom_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unstable_bush": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightstone_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bulb_fungus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rockshroom_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ebonys_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dewshroom_ladder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "miasma": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightstone_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nagrilite_nugget": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightstone_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bulb_fungus_hand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dead_wood_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tenebrum_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightstone_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ebonys_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "midnight_mycelium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rockshroom_bricks_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightshroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crystal_flower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mushroom_inside": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "viridshroom_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dewshroom_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deceitful_algae": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "viridshroom_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "double_midnight_grass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tall_midnight_grass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "double_nightshroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dewshroom_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_stick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bogshroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightshroom_ladder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trenchstone_brick_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightshroom_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "viridshroom_ladder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tenebrum_nugget": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "midnight_furnace_lit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "suavis": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nagrilite_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rouxe_rock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightstone_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dead_wood_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_willow_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bogshroom_hat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unstable_bush_lime_bloomed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tenebrum_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tendrilweed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rockshroom_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tenebrum_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightshroom_stem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deceitful_peat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightshroom_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dead_wood_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shadowroot_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_willow_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shadowroot_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dewshroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shadowroot_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unstable_fruit_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragon_nest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tenebrum_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bulb_fungus_stem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "advancement_highness": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tenebrum_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightshroom_hat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nagrilite_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dewshroom_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "archaic_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tenebrum_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shadowroot_ladder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bladeshroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_pearl": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_pearl_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bulb_fungus_hat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trenchstone_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rockshroom_bricks_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dead_wood_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shadowroot_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "archaic_shard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tenebrum_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lumen_bud": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "viridshroom_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shadowroot_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chiseled_nightstone_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rockshroom_bricks_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shadowroot_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightshroom_powder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tenebrum_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shadowroot_crafting_table": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightshroom_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_willow_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "viridshroom_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rockshroom_bricks_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightshroom_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bogweed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nagrilite_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shadowroot_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ebonys_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "midnight_grass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "viridshroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "midnight_lever": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hunter_wing": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fingered_grass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "miasma_surface": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bogshroom_shelf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bogshroom_stem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tenebrum_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bogshroom_sporch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rockshroom_bricks_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ebonys_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "raw_suavis": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shadowroot_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dead_wood_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trenchstone_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightstone_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cook_hunter_wing": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightstone_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightstone_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trenchstone_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bogshroom_powder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nagrilite_ingot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bloomcrystal_rock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dewshroom_stem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_willow_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trenchstone_brick_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

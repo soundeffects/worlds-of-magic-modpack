@@ -1,0 +1,572 @@
+{
+  "sconce_brass_terra": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_motus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chain_brass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shimmerdew_wort": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chandelier_brass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_vitreus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shimmerpetal_bulb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_tenebrae": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_lux": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_alkimia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_praemunio": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_greatwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_volatus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_machina": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_fabrico": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dust_tiny_blaze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "viscous_wort": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cinderfire_whiskey": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair_silverwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_gelum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_vinculum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_cognitio": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_sensus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cindermote": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_silverwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_aer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_praecantatio": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_spiritus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_bestia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_ignis": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_metallum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_aqua": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_mortuus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lantern_brass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_terra": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_sensus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_vitreus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_gelum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "viscap_spores": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shimmerpetal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_permutatio": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_perditio": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_ordo": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_bestia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cinderfire_wort": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_permutatio": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_humanus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cindermote_seeds": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_volatus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_desiderium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_machina": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_ignis": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_alkimia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table_greatwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_vacuos": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_instrumentum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_aversio": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_potentia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_herba": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_instrumentum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_alienis": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_exanimis": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candle_brass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_aer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "viscous_brew": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_praecantatio": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_exanimis": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_vacuos": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_tenebrae": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_fabrico": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_vinculum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_ordo": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_vitium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_aversio": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_desiderium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shimmerdew_spirits": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_victus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_alienis": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_lux": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_victus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_potentia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_praemunio": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "viscap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_auram": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_vitium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_spiritus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_herba": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_humanus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_perditio": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_aqua": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_motus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_metallum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_mortuus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_auram": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sconce_brass_cognitio": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

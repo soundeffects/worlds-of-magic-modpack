@@ -1,0 +1,3920 @@
+{
+  "cragrock_chiseled": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rotten_plank_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amulet_slot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cattail": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_sap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "black_hat_mushroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "test_item_chimp_ruler": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wights_bane": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_sign_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gerts_donut": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rotten_plank_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wandering_wisps": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rubber_tree_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amulet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cragrock_tiles": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "golden_club_flower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "standing_weedwood_sign": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_workbench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "octine_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mysterious_record": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arrow_arum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rubber_tree_plank_door_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weak_mossy_betweenstone_tiles": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "explorers_hat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stagnant_water": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "betweenstone_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "moss_bed_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_plank_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nibbletwig_plank_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "giant_root_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candy_yellow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hollow_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crimson_middle_gem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dungeon_door_combination": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spirit_tree_face_small_mask_animated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cragrock_brick_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syrmorite_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cracked_betweenstone_tiles": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "polished_dentrothyst": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coarse_swamp_dirt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_plank_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cracked_betweenstone_brick_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pitcher_plant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_stairs_decay_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_stairs_decay_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_stairs_decay_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shockwave_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_stairs_decay_4": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wooden_support_beam_rotten_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "caving_rope": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "christmas_pudding": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cragrock_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "betweenstone_tiles": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aqua_middle_gem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slimy_bone_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dentrothyst_vial": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wooden_support_beam_rotten_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wooden_support_beam_rotten_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syrmorite_door_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_hearthgrove_tree": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "items_crushed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valonite_greataxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "limestone_brick_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "druid_altar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_jukebox": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "compost_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smooth_cragrock_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tar_solid_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_spirit_tree_middle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "repeller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "giant_root_plank_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tar_solid_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_rowboat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "compacted_mud": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "purified_swamp_dirt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sulfur_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tainted_potion": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sludgy_dirt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cave_grass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_ladder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syrmorite_barrel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aspect_vial": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rotten_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_plank_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "the_explorer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smooth_betweenstone_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thorns": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syrmorite_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_of_recruitment": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smooth_cragrock_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lichen": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_spreading_rotten_bark": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weeping_blue_petal_salad": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "edge_shroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "limestone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rubber": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bulb_capped_mushroom_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wisp": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "marsh_marigold_stalk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "betweenstone_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sludgecreep": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "water_weeds": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "compacted_mud_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deep_water_coral": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "marshmallow_pink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sundew": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "swamp_plant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dungeon_door_runes_crawler": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kraken_calamari": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smooth_pitstone_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syrmorite_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stalactite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "betweenstone_pillar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rotten_food": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crimson_middle_gem_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "onwards": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decay_pit_hanging_chain": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "puddle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_tower_beam_tube": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valonite_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candy_cane": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rope": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "betweenstone_chiseled": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frog_legs_raw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silt_glass_pane": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cracked_limestone_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "astatos": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "limestone_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "boneset": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cardinal_flower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skull_mask": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "octine_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dug_swamp_grass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_tower_beam_origin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "root": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_shield": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "temple_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "octine_arrow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infuser": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_door_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "inactive_glowing_smooth_cragrock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_roof": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nibbletwig_plank_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dead_lichen": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fallen_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dentrothyst_shield_orange_polished": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "betweenstone_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blue_iris": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mossy_betweenstone_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mire_coral_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_tiles": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "limestone_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scabyst_brick_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "life_crystal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valonite_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mire_coral": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dj_wights_mixtape": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hearthgrove_plank_door_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valonite_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scabyst_pitstone_dotted": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "copper_iris": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "giant_root_plank_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_flower_pot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glowing_betweenstone_tile": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "temple_brick_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sickle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "green_middle_gem_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cragrock_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pitstone_brick_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_rotten_bark_carved_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "limestone_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_rotten_bark_carved_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_rotten_bark_carved_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_nibbletwig": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_rotten_bark_carved_4": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rubber_tree_plank_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valonite_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "giant_root_plank_door_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thatch_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pitstone_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "life_crystal_stalactite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_weedwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mossy_betweenstone_brick_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "venus_fly_trap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nettle_flowered": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gallery_frame_small": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rubber_tree_plank_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "polished_limestone_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candy_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cryptweed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_plank_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mire_scramble": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "black_ice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valonite_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nibbletwig_plank_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valonite_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hearthgrove_plank_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "limestone_pillar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_rotten_bark_carved_5": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_rotten_bark_carved_6": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dug_purified_swamp_dirt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_rotten_bark_carved_7": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valonite_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_rotten_bark_carved_8": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_sap_tree": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_rotten_bark_carved_9": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mossy_betweenstone_tiles": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jam_donut": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "octine_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smooth_pitstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "angler_tooth_arrow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bark_amulet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "milkweed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sapling_weedwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bulb_capped_mushroom_stalk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "betweenstone_brick_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_shingles": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "temple_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aspectrus_crop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cragrock_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wood_chip_path": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lurker_skin_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_hearthgrove": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slimy_bone_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tangled_root": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dug_purified_swamp_grass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weak_betweenstone_tiles": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_shingle_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "golden_club_stalk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pitstone_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nibbletwig_plank_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generic_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_flower_pot_candle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fried_swamp_kelp": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "druid_stone_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "druid_stone_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "druid_stone_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "middle_fruit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "druid_stone_4": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "druid_stone_5": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "druid_stone_6": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_rubber_tree": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nibbletwig_plank_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gem_singer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pitstone_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_shield": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "black_hat_mushroom_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sulfur_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ground_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "swift_pick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scabyst_pitstone_horizontal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gallery_frame_very_large": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tarminion": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flat_head_mushroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manual_hl": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "purifier": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nettle_soup": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "worm_dungeon_pillar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decay_pit_ground_chain": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hag_hacker": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "loot_urn": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "betweenstone_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sushi": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "edge_moss": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "net": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "marsh_marigold_flower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mossy_smooth_betweenstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decay_pit_invisible_floor_block_diagonal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amate_paper_pane_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "swamp_reed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_of_flight": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amate_paper_pane_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_battle_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amate_paper_pane_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "octine_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "betweenlands_bedrock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blue_eyed_grass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_bricks_climbable": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "compacted_mud_slope": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "snow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "voodoo_doll": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "marsh_mallow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thatch_roof": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "present": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rubber_tree_plank_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weeping_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tar_beast_spawner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "polished_dentrothyst_pane": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "betweenstone_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elixir": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_rubber_tap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valonite_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smooth_betweenstone_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_tower_brazier": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sludge_slicer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nibbletwig_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "marsh_hibiscus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pyrad_flame": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "button_bush": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nibbletwig_plank_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_spike_trap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_tower_beam_relay": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "angler_meat_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nibblestick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_rubber": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wall_weedwood_sign": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sap_ball": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_log_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "angry_pebble": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rope_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "volarkite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wight_heart": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dentrothyst": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rotbulb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shimmer_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chiromaw_wing": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spreading_sludgy_dirt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_lever": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "items_plant_drop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tar_solid_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rotten_plank_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "edge_leaf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mossy_smooth_betweenstone_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syrmorite_rubber_tap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_barrel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "snail_flesh_raw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silt_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "octine_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sludge_worm_arrow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "forbidden_fig": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smooth_pitstone_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hearthgrove_plank_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "marshmallow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crimson_middle_gem_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "test_item_chimp": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dungeon_door_runes_mimic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syrmorite_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smooth_cragrock_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_plank_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "snail_flesh_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nibbletwig_plank_door_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_slab_decay_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_slab_decay_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_slab_decay_4": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_slab_decay_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pickerel_weed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "marsh_runner_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shoots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "portal_frame": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tree_portal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_of_gathering": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syrmorite_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "censer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sludge_worm_egg_sac": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slimy_dirt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "swamp_dirt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "walkway": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bl_bucket_plant_tonic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bulb_capped_mushroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "middle_fruit_bush": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "location_debug": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bulb_capped_mushroom_cap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dentrothyst_shield_green_polished": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "yellow_dotted_fungus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syrmorite_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pitstone_pillar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_bow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sludge_ball": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_tiles_water": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_of_dispersion": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syrmorite_shield": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "basilisk_arrow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hearthgrove_plank_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lurker_skin_pouch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hag_dance": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "polished_limestone_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sapling_hearthgrove": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cave_moss": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grappling_hook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hearthgrove_plank_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beneath_a_green_sky": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_shelf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scabyst_brick_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "temple_pillar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "green_middle_gem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_alcove": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rubber_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shelf_fungus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "octine_ingot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hearthgrove_plank_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valonite_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dungeon_door_runes": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "giant_root_plank_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "swamp_talisman": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "animator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sapling_sap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_weedwood_tree": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phragmites": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candy_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syrmorite_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decay_pit_invisible_floor_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glowing_smooth_cragrock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syrmorite_bucket_solid_rubber": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syrmorite_shears": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scabyst_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pitstone_brick_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_rotten_bark_carved_12": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gallery_frame_large": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_rotten_bark_carved_13": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_rotten_bark_carved_10": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_rotten_bark_carved_11": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shambler_tongue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_rotten_bark_carved_16": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_rotten_bark_carved_14": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_rotten_bark_carved_15": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_wayfinder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weak_polished_limestone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "giant_root_plank_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lurker_skin_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "items_misc": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bl_bucket_rubber": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dentrothyst_shard_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rubber_tree_plank_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bladderwort_flower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decay_pit_control": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scabyst_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "root_underwater": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gecko": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "soft_rush": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "volarpad": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bladderwort_stalk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decay_pit_invisible_floor_block_r_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decay_pit_invisible_floor_block_r_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "energy_barrier_mud": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mortar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pitstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sapling_rubber": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sulfur_furnace_active": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diagonal_energy_barrier": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aqua_middle_gem_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mossy_smooth_betweenstone_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "angler_meat_raw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spirit_tree_face_small_mask": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lurker_skin_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scabyst_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "giant_root_plank_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "octine_shield": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "christmas_on_the_marsh": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_spirit_tree": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dead_weedwood_bush": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hearthgrove_plank_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dungeon_wall_candle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sap_jello": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scabyst_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stuck_in_the_mud": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dug_swamp_dirt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syrmorite_hopper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bl_bucket_infusion": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_portal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aspectrus_fruit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "swamp_kelp_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "betweenstone_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mire_snail_egg_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lurker_skin_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "loot_pot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "swamp_reed_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scabyst_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "broomsedge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "test_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bl_bucket": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mossy_limestone_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aspectrus_seeds": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "string_roots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aspect_vial_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pitstone_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poison_ivy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "polished_limestone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "giant_root_plank_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sulfur_furnace": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mince_pie": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_greatsword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silt_crab_claw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bottle_brush_grass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valonite_shield": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "firefly": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "giant_root": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "swamp_double_tallgrass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flat_head_mushroom_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lore_scrap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tall_cattail": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_cage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "possessed_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scabyst_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_spirit_tree_top": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "betweenstone_bricks_mirage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syrmorite_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spirit_tree_face_large_mask": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spores": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weeping_blue_petal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "moss_bed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "damp_torch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deep_water_coral_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_log_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cragrock_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amate_map": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "waystone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scabyst_chiseled_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rubber_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mob_spawner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scabyst_chiseled_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tall_sludgecreep": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scabyst_chiseled_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sulfur_furnace_dual_active": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "waterlogged": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alembic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "predator_bow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kraken_tentacle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dentrothyst_shield_orange": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "green_middle_gem_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dentrothyst_shield_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "algae": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nettle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scabyst_door_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smooth_betweenstone_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mossy_smooth_betweenstone_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "compacted_mud_mirage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frog_legs_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "energy_barrier": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "octine_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spirit_fruit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "living_weedwood_shield": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fungus_crop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rune_door_key": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "betweenstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bog_bean_flower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "angry_betweenstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "swamp_tallgrass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hearthgrove_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "limestone_tiles": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "swamp_reed_underwater": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "between_you_and_me": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "caving_rope_light": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "limestone_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sap_spit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sapling_nibbletwig": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mossy_betweenstone_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lonely_fire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syrmorite_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "root_pod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smooth_pitstone_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gecko_cage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "puffshroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pale_grass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sulfur_torch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rotten_plank_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pitstone_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_of_power": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spike_trap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poisoned_angler_tooth_arrow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pitstone_tiles": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "limestone_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cragrock_brick_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_tower_beam_lens_supports": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aqua_middle_gem_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "puffshroom_tendril": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "critter_cruncher": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tar_loot_pot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mire_snail_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thatch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rubber_tree_plank_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dead_moss": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crab_stick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "temple_brick_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hanger": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smooth_cragrock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_plank_pressure_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_spirit_tree_bottom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_of_summoning": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mossy_betweenstone_brick_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lurker_skin_shield": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_bricks_carved": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "middle_fruit_jello": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valonite_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mummy_bait": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cracked_betweenstone_brick_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "moss": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "betweenstone_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rubber_tree_plank_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cragrock_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sulfur_furnace_dual": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cragrock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smooth_betweenstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_tiles_spike_trap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pitstone_chiseled": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decay_pit_invisible_floor_block_l_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dentrothyst_shard_orange": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cragrock_pillar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decay_pit_invisible_floor_block_l_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "swamp_water": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "limestone_brick_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weedwood_bush": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magic_item_magnet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "limestone_chiseled": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sludge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sapling_spirit_tree": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cracked_betweenstone_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "middle_fruit_bush_seeds": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bog_bean_stalk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_nibbletwig_tree": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pestle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slimy_grass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tar_solid": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cracked_betweenstone_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_shingle_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "swamp_kelp": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "polished_limestone_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "empty_amate_map": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "swamp_grass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "betweenstone_brick_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mud_brick_shingle_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dead_grass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "compost_bin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_rotten_bark": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dentrothyst_fluid_vial": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reed_donut": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sludge_jello": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

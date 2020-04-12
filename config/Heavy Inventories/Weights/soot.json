@@ -1,0 +1,332 @@
+{
+  "sulfur_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ingot_antimony": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "witch_fire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wrought_platform_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eitr": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ember_bore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ember_burst": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "caminite_tiles_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sealed_keg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "archaic_bricks_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sulfur": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "caminite_tiles_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "still": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alchemy_globe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sealed_planks_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "distillation_pipe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "signet_antimony": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alchemy_pedestal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "caminite_large_tile": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sealed_tile_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redstone_bin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "insulation": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "caminite_large_tile_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beam_cannon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crystal_cell": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sealed_planks_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wrought_tile": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dawnstone_anvil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mixer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alchemy_tablet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mundane_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sealed_tile": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mug": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alchemy_gauge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "caminite_large_tile_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "archaic_tile_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stamp_text": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "archaic_bricks_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "heat_coil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scale": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "caminite_clay": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sulfur_clump": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "archaic_tile_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mech_accessor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sealed_tile_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stamper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wrought_platform": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "caminite_tiles": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stamp_nugget_raw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "archaic_big_bricks_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "archaic_big_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sealed_pillar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stamp_text_raw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "archaic_big_bricks_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stamp_nugget": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

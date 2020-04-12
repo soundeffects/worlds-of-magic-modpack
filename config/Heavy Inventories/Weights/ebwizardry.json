@@ -1,0 +1,1100 @@
+{
+  "wizard_leggings_healing": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amulet_potential": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "siphon_upgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spark_bomb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "small_mana_flask": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "novice_healing_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apprentice_earth_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "medium_mana_flask": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "novice_ice_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amulet_anchoring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spectral_bow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_ice_melee": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charm_abseiling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_leggings_fire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_mana_return": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "petrified_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magic_crystal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_boots_earth": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "novice_necromancy_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_hat_fire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_defender": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "advanced_fire_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_hat_lightning": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_poison": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_robe_lightning": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "master_ice_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "master_healing_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scroll": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amulet_recovery": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_necromancy_melee": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amulet_transience": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_boots_fire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crystal_flower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_hat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blank_scroll": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "identification_scroll": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frost_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_hat_healing": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spell_book": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spectral_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vanishing_cobweb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magic_silk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_leeching": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spectral_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_full_moon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_hat_necromancy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crystal_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spectral_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "large_mana_flask": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spectral_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amulet_arcane_defence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_extraction": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "melee_upgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armour_upgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "purifying_elixir": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_seeking": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "advanced_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_boots_necromancy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dry_frosted_ice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "advanced_necromancy_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "obsidian_crust": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charm_silk_touch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amulet_warding": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apprentice_lightning_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "astral_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_ice_biome": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amulet_banishing": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charm_growth": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "range_upgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_battlemage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_boots_sorcery": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arcane_workbench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blast_upgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runestone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crystal_shard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_robe_sorcery": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amulet_fire_protection": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magic_light": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_leggings_sorcery": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amulet_lich": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poison_bomb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "meteor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_robe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "master_earth_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apprentice_necromancy_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charm_light": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arcane_tome": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_earth_biome": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "novice_sorcery_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_robe_necromancy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "master_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_conjurer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_blockwrangler": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_condensing": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_paladin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "novice_earth_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_leggings_ice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_mind_control": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apprentice_ice_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thorns": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spectral_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "master_lightning_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charm_minion_health": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "duration_upgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lightning_hammer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charm_transportation": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "snare": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spectral_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_handbook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "master_fire_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "runestone_pedestal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charm_lava_walking": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cooldown_upgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_fire_melee": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "advanced_earth_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apprentice_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flaming_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amulet_glide": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_disintegration": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apprentice_fire_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_robe_earth": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_boots_lightning": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_shattering": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amulet_wither_immunity": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "master_sorcery_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spectral_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_arcane_frost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charm_feeding": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charm_storm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_leggings_lightning": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage_upgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_leggings_earth": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "advanced_ice_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "attunement_upgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smoke_bomb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_fire_biome": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charm_flight": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ice_statue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "firebomb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charm_haggler": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apprentice_healing_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amulet_wisdom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amulet_ice_protection": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amulet_fire_cloaking": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crystal_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grand_crystal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amulet_resurrection": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_lightning_melee": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "condenser_upgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_storm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_boots_ice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magic_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_hat_ice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amulet_ice_immunity": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "novice_lightning_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_robe_ice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "advanced_lightning_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_robe_fire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_robe_healing": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "advanced_sorcery_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_hat_sorcery": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_hammer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charm_minion_variants": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charm_auto_smelt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "transportation_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amulet_channeling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "novice_fire_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_leggings_necromancy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_soulbinding": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apprentice_sorcery_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "advanced_healing_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_hat_earth": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_siphoning": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_interdiction": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wizard_boots_healing": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_earth_melee": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amulet_auto_shield": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ring_combustion": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charm_experience_tome": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charm_stop_time": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "master_necromancy_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

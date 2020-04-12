@@ -1,0 +1,128 @@
+{
+  "warm_chestplate_liner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "auto_chestplate_liner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cool_boots_liner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flipflop_liner_material": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "warm_helmet_liner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cooling_goo": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "heating_goo": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cool_chestplate_liner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "warm_liner_material": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "warm_leggings_liner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cool_leggings_liner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flipflop_goo": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mod_icon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cool_liner_material": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cool_helmet_liner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "liner_snips": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "auto_leggings_liner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "warm_boots_liner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "goopak_heat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "goopak_cool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "goopak_spent": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

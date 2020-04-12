@@ -1,0 +1,14 @@
+{
+  "gas_fire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gas_smoke": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

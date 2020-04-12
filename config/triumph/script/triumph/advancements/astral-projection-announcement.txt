@@ -1,0 +1,8 @@
+setIcon(<gbook:guidebook, nbt:{Book:"ltta:xml/ltta.xml"}>)
+setTitle("School of Astral Projection")
+setDescription("Other worlds are close.")
+addParent("triumph:advancements/schools")
+setPos(-153,88)
+hideLines()
+criteria = addCriteria("hasLTTA", "minecraft:inventory_changed")
+criteria.addItem(<gbook:guidebook, nbt:{Book:"ltta:xml/ltta.xml"}>)

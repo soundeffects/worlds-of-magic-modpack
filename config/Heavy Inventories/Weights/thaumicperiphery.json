@@ -1,0 +1,50 @@
+{
+  "caster_ember": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pauldron_repulsion": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magic_quiver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "malignant_heart": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vis_phylactery": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gear_brass": [
+    {
+      "offset": 0.1,
+      "weight": 0.1
+    }
+  ],
+  "caster_elementium": [
+    {
+      "offset": 0.1,
+      "weight": 0.1
+    }
+  ],
+  "pauldron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

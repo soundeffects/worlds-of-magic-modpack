@@ -1,0 +1,434 @@
+{
+  "green_pepper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tofu_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chopping_board": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chili": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spinach": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_grapefruit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "corn": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "onion": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cucumber": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "earthen_basin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sugarcane_juice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wok": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_mandarin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wooden_basin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sichuan_pepper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_lemon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eggplant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "soy_milk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_citron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kitchen_knife": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "drinkro": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "milk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "placed_dish": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lettuce": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "drink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mill": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bamboo": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dish": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_lime": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ginger": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "soy_sauce": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sesame": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "squeezer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "edible_oil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chinese_cabbage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glass_bottle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mortar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sheared_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crops": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tomato": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manual": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scallion": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spice_bottle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fruit_vinegar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sesame_oil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peanut": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "earthen_basin_colored": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "soybean": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rice_vinegar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "garlic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_orange": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ingredient": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "red_pepper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leek": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "boat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "food": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bamboo_plant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "material": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fire_pit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turnip": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_pomelo": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_spatula": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}
