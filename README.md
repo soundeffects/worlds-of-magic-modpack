@@ -7,9 +7,25 @@ to solve. You can then compare your setups to others who have chosen different s
 their problems.
 
 ## Features
+- Eight schools of magic to choose from including:
+  - Alchemy, centered around the Thaumcraft mod.
+  - Astral Projection, centered around Mystcraft other dimension mods (such as Aether).
+  - Astrology, centered around the Astral Sorcery mod.
+  - Divination, centered around the mod Botania.
+  - Druidry, centered around the Roots mod.
+  - Technomancy, centered around both Embers and Psi mods.
+  - Witchcraft, centered around the Bewitchment mod.
+  - Wizardry, centered around Electroblob's Wizardry.
+- A dynamic and realistic world, including realistic terrain gen, dynamic trees, growing animal populations, and more.
+
+For more, see the [wiki](https://github.com/soundeffects/worlds-of-magic-modpack/wiki) tab.
 
 ## Installation
+Download and place all the folders included in the code in your home minecraft directory.
+This pack should work with the latest forge version for 1.12.
 
 ## Reporting and Contributing
+Go to the [issues](https://github.com/soundeffects/worlds-of-magic-modpack/issues) tab and report an issue.
 
 ## Credits
+Mod author list coming soon.
