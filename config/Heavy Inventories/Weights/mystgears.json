@@ -77,13 +77,13 @@
       "weight": 0.1
     }
   ],
-  "gear_bronze": [
+  "gear_lead": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
-  "gear_lead": [
+  "gear_bronze": [
     {
       "offset": 0.5,
       "weight": 0.1

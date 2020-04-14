@@ -203,18 +203,6 @@
       "weight": 0.1
     }
   ],
-  "limestone_speleothem": [
-    {
-      "offset": 0.5,
-      "weight": 0.1
-    }
-  ],
-  "glowshroom": [
-    {
-      "offset": 0.5,
-      "weight": 0.1
-    }
-  ],
   "quartz_wall": [
     {
       "offset": 0.5,
@@ -222,6 +210,18 @@
     }
   ],
   "stone_diorite_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "limestone_speleothem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glowshroom": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -269,13 +269,13 @@
       "weight": 0.1
     }
   ],
-  "elder_prismarine_stairs": [
+  "stone_marble_bricks_wall": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
-  "stone_marble_bricks_wall": [
+  "elder_prismarine_stairs": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -353,13 +353,13 @@
       "weight": 0.1
     }
   ],
-  "cooked_crab_leg": [
+  "trowel": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
-  "trowel": [
+  "cooked_crab_leg": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -437,13 +437,13 @@
       "weight": 0.1
     }
   ],
-  "fire_stone_slab": [
+  "sandstone_smooth_slab": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
-  "sandstone_smooth_slab": [
+  "fire_stone_slab": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -497,13 +497,13 @@
       "weight": 0.1
     }
   ],
-  "netherrack_speleothem": [
+  "stone_basalt_bricks_wall": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
-  "stone_basalt_bricks_wall": [
+  "netherrack_speleothem": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -539,13 +539,13 @@
       "weight": 0.1
     }
   ],
-  "smoker": [
+  "stone_diorite_bricks_slab_double": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
-  "stone_diorite_bricks_slab_double": [
+  "smoker": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -605,19 +605,13 @@
       "weight": 0.1
     }
   ],
-  "biotite_block": [
-    {
-      "offset": 0.5,
-      "weight": 0.1
-    }
-  ],
   "stone_jasper_bricks_wall": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
-  "icy_stone_slab": [
+  "biotite_block": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -630,6 +624,12 @@
     }
   ],
   "stone_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "icy_stone_slab": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -677,13 +677,13 @@
       "weight": 0.1
     }
   ],
-  "marble": [
+  "obsidian_pressure_plate": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
-  "obsidian_pressure_plate": [
+  "marble": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -731,13 +731,13 @@
       "weight": 0.1
     }
   ],
-  "glowcelium": [
+  "iron_plate_slab_double": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
-  "iron_plate_slab_double": [
+  "glowcelium": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -869,13 +869,13 @@
       "weight": 0.1
     }
   ],
-  "icy_stone_brick_stairs": [
+  "sandstone_new": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
-  "sandstone_new": [
+  "icy_stone_brick_stairs": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -887,13 +887,13 @@
       "weight": 0.1
     }
   ],
-  "stone_marble_stairs": [
+  "redstone_inductor": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
-  "redstone_inductor": [
+  "stone_marble_stairs": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -947,12 +947,6 @@
       "weight": 0.1
     }
   ],
-  "slate_speleothem": [
-    {
-      "offset": 0.5,
-      "weight": 0.1
-    }
-  ],
   "charred_nether_brick_slab": [
     {
       "offset": 0.5,
@@ -966,6 +960,12 @@
     }
   ],
   "magma_bricks_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slate_speleothem": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -1037,13 +1037,13 @@
       "weight": 0.1
     }
   ],
-  "stone_slate_stairs": [
+  "bark_spruce_slab": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
-  "bark_spruce_slab": [
+  "stone_slate_stairs": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -1073,13 +1073,13 @@
       "weight": 0.1
     }
   ],
-  "slate": [
+  "sturdy_stone": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
-  "sturdy_stone": [
+  "slate": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -1259,13 +1259,13 @@
       "weight": 0.1
     }
   ],
-  "stone_speleothem": [
+  "stone_limestone_bricks_wall": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
-  "stone_limestone_bricks_wall": [
+  "stone_speleothem": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -1277,13 +1277,13 @@
       "weight": 0.1
     }
   ],
-  "elder_prismarine_wall": [
+  "snow_bricks_slab": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
-  "snow_bricks_slab": [
+  "elder_prismarine_wall": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -1313,19 +1313,13 @@
       "weight": 0.1
     }
   ],
-  "roots_black_flower": [
-    {
-      "offset": 0.5,
-      "weight": 0.1
-    }
-  ],
   "stone_andesite_stairs": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
-  "stone_basalt_stairs": [
+  "roots_black_flower": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -1337,13 +1331,19 @@
       "weight": 0.1
     }
   ],
-  "jasper_wall": [
+  "stone_basalt_stairs": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
   "end_bricks_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jasper_wall": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -1373,6 +1373,12 @@
       "weight": 0.1
     }
   ],
+  "cobblestone_mossy_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
   "granite_speleothem": [
     {
       "offset": 0.5,
@@ -1380,12 +1386,6 @@
     }
   ],
   "stone_limestone_slab_double": [
-    {
-      "offset": 0.5,
-      "weight": 0.1
-    }
-  ],
-  "cobblestone_mossy_stairs": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -1535,25 +1535,19 @@
       "weight": 0.1
     }
   ],
-  "stone_basalt_slab_double": [
-    {
-      "offset": 0.5,
-      "weight": 0.1
-    }
-  ],
   "red_sandstone_smooth_slab_double": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
-  "arrow_explosive": [
+  "stone_basalt_slab_double": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
-  "stone_limestone_stairs": [
+  "arrow_explosive": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -1577,13 +1571,19 @@
       "weight": 0.1
     }
   ],
-  "redstone_randomizer": [
+  "stone_limestone_stairs": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
   "midori_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redstone_randomizer": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -1799,13 +1799,13 @@
       "weight": 0.1
     }
   ],
-  "marble_speleothem": [
+  "sandy_bricks_stairs": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
-  "sandy_bricks_stairs": [
+  "marble_speleothem": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -1907,12 +1907,6 @@
       "weight": 0.1
     }
   ],
-  "fire_stone_slab_double": [
-    {
-      "offset": 0.5,
-      "weight": 0.1
-    }
-  ],
   "stone_andesite_slab_double": [
     {
       "offset": 0.5,
@@ -1920,6 +1914,12 @@
     }
   ],
   "stone_basalt_bricks_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fire_stone_slab_double": [
     {
       "offset": 0.5,
       "weight": 0.1

@@ -23,13 +23,13 @@
       "weight": 0.1
     }
   ],
-  "chili": [
+  "spinach": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
-  "spinach": [
+  "chili": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -71,25 +71,25 @@
       "weight": 0.1
     }
   ],
-  "fan": [
-    {
-      "offset": 0.5,
-      "weight": 0.1
-    }
-  ],
   "wok": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
-  "leaves_mandarin": [
+  "fan": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
   "wooden_basin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves_mandarin": [
     {
       "offset": 0.5,
       "weight": 0.1
@@ -353,13 +353,13 @@
       "weight": 0.1
     }
   ],
-  "red_pepper": [
+  "rice": [
     {
       "offset": 0.5,
       "weight": 0.1
     }
   ],
-  "rice": [
+  "red_pepper": [
     {
       "offset": 0.5,
       "weight": 0.1
